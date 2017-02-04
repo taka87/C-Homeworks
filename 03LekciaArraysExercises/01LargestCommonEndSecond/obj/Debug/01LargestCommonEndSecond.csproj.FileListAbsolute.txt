@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\01LargestCommonEndSecond\bin\Debug\01LargestCommonEndSecond.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\01LargestCommonEndSecond\bin\Debug\01LargestCommonEndSecond.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\01LargestCommonEndSecond\bin\Debug\01LargestCommonEndSecond.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\01LargestCommonEndSecond\obj\Debug\01LargestCommonEndSecond.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\01LargestCommonEndSecond\obj\Debug\01LargestCommonEndSecond.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\01LargestCommonEndSecond\obj\Debug\01LargestCommonEndSecond.pdb

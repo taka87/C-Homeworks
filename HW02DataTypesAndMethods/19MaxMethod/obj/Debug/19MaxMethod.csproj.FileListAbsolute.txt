@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19MaxMethod\bin\Debug\19MaxMethod.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19MaxMethod\bin\Debug\19MaxMethod.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19MaxMethod\bin\Debug\19MaxMethod.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19MaxMethod\obj\Debug\19MaxMethod.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19MaxMethod\obj\Debug\19MaxMethod.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19MaxMethod\obj\Debug\19MaxMethod.pdb

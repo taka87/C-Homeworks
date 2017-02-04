@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19LastDigitMethod\bin\Debug\19LastDigitMethod.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19LastDigitMethod\bin\Debug\19LastDigitMethod.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19LastDigitMethod\bin\Debug\19LastDigitMethod.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19LastDigitMethod\obj\Debug\19LastDigitMethod.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\19LastDigitMethod\obj\Debug\19LastDigitMethod.pdb

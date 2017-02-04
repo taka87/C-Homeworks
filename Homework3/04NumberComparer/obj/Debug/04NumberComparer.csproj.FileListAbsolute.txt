@@ -1,0 +1,5 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\04NumberComparer\bin\Debug\04NumberComparer.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\04NumberComparer\bin\Debug\04NumberComparer.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\04NumberComparer\obj\Debug\04NumberComparer.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\04NumberComparer\obj\Debug\04NumberComparer.pdb

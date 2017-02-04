@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.pdb

@@ -1,0 +1,1 @@
+c:\users\pilence\documents\visual studio 2015\Projects\02.SimpleApplcationExercise\01.BGN-to-EUR-Converter\bin\Debug\01.BGN-to-EUR-Converter.exe.config

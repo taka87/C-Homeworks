@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\08NumbersFrom1ToN\bin\Release\08NumbersFrom1ToN.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\08NumbersFrom1ToN\bin\Release\08NumbersFrom1ToN.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\08NumbersFrom1ToN\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\08NumbersFrom1ToN\obj\x86\Release\08NumbersFrom1ToN.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\08NumbersFrom1ToN\obj\x86\Release\08NumbersFrom1ToN.pdb

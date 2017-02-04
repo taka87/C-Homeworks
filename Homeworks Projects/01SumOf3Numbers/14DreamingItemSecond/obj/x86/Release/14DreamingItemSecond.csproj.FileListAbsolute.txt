@@ -1,0 +1,9 @@
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamingItemSecond\bin\Release\14DreamingItemSecond.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamingItemSecond\bin\Release\14DreamingItemSecond.pdb
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\14DreamingItemSecond.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\14DreamingItemSecond.pdb
+E:\Softuni New\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\14DreamingItemSecond.exe
+E:\Softuni New\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\14DreamingItemSecond.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\14DreamingItemSecond.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\14DreamingItemSecond\obj\x86\Release\14DreamingItemSecond.pdb

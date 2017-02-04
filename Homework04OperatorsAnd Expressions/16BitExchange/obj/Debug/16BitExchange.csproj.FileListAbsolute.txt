@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\16BitExchange\bin\Debug\16BitExchange.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\16BitExchange\bin\Debug\16BitExchange.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\16BitExchange\bin\Debug\16BitExchange.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\16BitExchange\obj\Debug\16BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\16BitExchange\obj\Debug\16BitExchange.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\16BitExchange\obj\Debug\16BitExchange.pdb

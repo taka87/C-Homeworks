@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07MaxSequenceOfIncreasingElements\bin\Debug\07MaxSequenceOfIncreasingElements.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07MaxSequenceOfIncreasingElements\bin\Debug\07MaxSequenceOfIncreasingElements.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07MaxSequenceOfIncreasingElements\bin\Debug\07MaxSequenceOfIncreasingElements.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07MaxSequenceOfIncreasingElements\obj\Debug\07MaxSequenceOfIncreasingElements.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07MaxSequenceOfIncreasingElements\obj\Debug\07MaxSequenceOfIncreasingElements.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07MaxSequenceOfIncreasingElements\obj\Debug\07MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache

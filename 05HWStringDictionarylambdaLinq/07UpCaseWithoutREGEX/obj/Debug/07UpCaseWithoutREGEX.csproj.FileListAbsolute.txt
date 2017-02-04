@@ -1,0 +1,1 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCaseWithoutREGEX\bin\Debug\07UpCaseWithoutREGEX.exe.config

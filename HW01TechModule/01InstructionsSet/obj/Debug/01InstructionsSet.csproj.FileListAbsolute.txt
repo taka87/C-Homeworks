@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01InstructionsSet\bin\Debug\01InstructionsSet.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01InstructionsSet\bin\Debug\01InstructionsSet.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01InstructionsSet\bin\Debug\01InstructionsSet.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01InstructionsSet\obj\Debug\01InstructionsSet.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01InstructionsSet\obj\Debug\01InstructionsSet.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01InstructionsSet\obj\Debug\01InstructionsSet.pdb

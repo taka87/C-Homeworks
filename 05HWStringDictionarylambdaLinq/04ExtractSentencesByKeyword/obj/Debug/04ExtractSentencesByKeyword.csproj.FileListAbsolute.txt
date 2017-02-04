@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\04ExtractSentencesByKeyword\bin\Debug\04ExtractSentencesByKeyword.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\04ExtractSentencesByKeyword\bin\Debug\04ExtractSentencesByKeyword.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\04ExtractSentencesByKeyword\bin\Debug\04ExtractSentencesByKeyword.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\04ExtractSentencesByKeyword\obj\Debug\04ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\04ExtractSentencesByKeyword\obj\Debug\04ExtractSentencesByKeyword.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\04ExtractSentencesByKeyword\obj\Debug\04ExtractSentencesByKeyword.pdb

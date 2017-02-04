@@ -1,0 +1,5 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.pdb

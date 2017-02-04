@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\02IntroProgrammingHomework\bin\Debug\02IntroProgrammingHomework.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\02IntroProgrammingHomework\bin\Debug\02IntroProgrammingHomework.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\02IntroProgrammingHomework\bin\Debug\02IntroProgrammingHomework.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\02IntroProgrammingHomework\obj\Debug\02IntroProgrammingHomework.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\02IntroProgrammingHomework\obj\Debug\02IntroProgrammingHomework.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\02IntroProgrammingHomework\obj\Debug\02IntroProgrammingHomework.pdb

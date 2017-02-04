@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\02Exercise\bin\Debug\02Exercise.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\02Exercise\bin\Debug\02Exercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\02Exercise\bin\Debug\02Exercise.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\02Exercise\obj\Debug\02Exercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\02Exercise\obj\Debug\02Exercise.pdb

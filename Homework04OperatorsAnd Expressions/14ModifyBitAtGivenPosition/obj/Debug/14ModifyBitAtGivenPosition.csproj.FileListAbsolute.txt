@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\14ModifyBitAtGivenPosition\bin\Debug\14ModifyBitAtGivenPosition.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\14ModifyBitAtGivenPosition\bin\Debug\14ModifyBitAtGivenPosition.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\14ModifyBitAtGivenPosition\bin\Debug\14ModifyBitAtGivenPosition.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\14ModifyBitAtGivenPosition\obj\Debug\14ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\14ModifyBitAtGivenPosition\obj\Debug\14ModifyBitAtGivenPosition.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\14ModifyBitAtGivenPosition\obj\Debug\14ModifyBitAtGivenPosition.pdb

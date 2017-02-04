@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\05FormattingNumbers\obj\Debug\05FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework3\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb

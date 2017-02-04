@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\09Trapezoids\bin\Debug\09Trapezoids.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\09Trapezoids\bin\Debug\09Trapezoids.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\09Trapezoids\obj\Debug\09Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\09Trapezoids\obj\Debug\09Trapezoids.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\09Trapezoids\obj\Debug\09Trapezoids.pdb

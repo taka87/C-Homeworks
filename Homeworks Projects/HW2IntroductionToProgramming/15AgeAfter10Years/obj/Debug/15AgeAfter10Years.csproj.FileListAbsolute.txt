@@ -1,0 +1,5 @@
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.pdb

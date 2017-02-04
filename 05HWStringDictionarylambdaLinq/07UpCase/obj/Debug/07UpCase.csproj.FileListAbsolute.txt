@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCase\bin\Debug\07UpCase.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCase\bin\Debug\07UpCase.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCase\bin\Debug\07UpCase.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCase\obj\Debug\07UpCase.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCase\obj\Debug\07UpCase.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\07UpCase\obj\Debug\07UpCase.pdb

@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\05FormattingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\05FormattingNumbers\obj\x86\Debug\05FormattingNumbers.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\05FormattingNumbers\obj\x86\Debug\05FormattingNumbers.pdb

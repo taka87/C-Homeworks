@@ -1,0 +1,7 @@
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamItem\bin\Release\14DreamItem.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamItem\bin\Release\14DreamItem.pdb
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamItem\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamItem\obj\x86\Release\14DreamItem.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\01SumOf3Numbers\14DreamItem\obj\x86\Release\14DreamItem.pdb
+E:\Softuni New\01SumOf3Numbers\14DreamItem\obj\x86\Release\14DreamItem.exe
+E:\Softuni New\01SumOf3Numbers\14DreamItem\obj\x86\Release\14DreamItem.pdb

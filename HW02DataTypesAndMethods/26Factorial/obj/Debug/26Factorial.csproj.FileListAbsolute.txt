@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\26Factorial\bin\Debug\26Factorial.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\26Factorial\bin\Debug\26Factorial.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\26Factorial\bin\Debug\26Factorial.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\26Factorial\obj\Debug\26Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\26Factorial\obj\Debug\26Factorial.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\26Factorial\obj\Debug\26Factorial.pdb

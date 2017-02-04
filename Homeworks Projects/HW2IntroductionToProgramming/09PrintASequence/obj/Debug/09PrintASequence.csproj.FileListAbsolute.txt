@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.exe.config
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.exe
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.pdb
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.exe
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.pdb

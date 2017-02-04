@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\04LekciaListsAndMatrices\07CountNumbers\bin\Debug\07CountNumbers.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\04LekciaListsAndMatrices\07CountNumbers\bin\Debug\07CountNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\04LekciaListsAndMatrices\07CountNumbers\bin\Debug\07CountNumbers.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\04LekciaListsAndMatrices\07CountNumbers\obj\Debug\07CountNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\04LekciaListsAndMatrices\07CountNumbers\obj\Debug\07CountNumbers.pdb

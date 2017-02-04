@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\01PlayWithVIsualStudio\bin\Debug\01PlayWithVIsualStudio.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\01PlayWithVIsualStudio\bin\Debug\01PlayWithVIsualStudio.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\01PlayWithVIsualStudio\bin\Debug\01PlayWithVIsualStudio.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\01PlayWithVIsualStudio\obj\Debug\01PlayWithVIsualStudio.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\01PlayWithVIsualStudio\obj\Debug\01PlayWithVIsualStudio.pdb

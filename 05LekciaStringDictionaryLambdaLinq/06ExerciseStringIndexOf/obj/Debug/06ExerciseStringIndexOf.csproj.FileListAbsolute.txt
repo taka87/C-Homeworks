@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\06ExerciseStringIndexOf\bin\Debug\06ExerciseStringIndexOf.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\06ExerciseStringIndexOf\bin\Debug\06ExerciseStringIndexOf.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\06ExerciseStringIndexOf\bin\Debug\06ExerciseStringIndexOf.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\06ExerciseStringIndexOf\obj\Debug\06ExerciseStringIndexOf.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\06ExerciseStringIndexOf\obj\Debug\06ExerciseStringIndexOf.pdb

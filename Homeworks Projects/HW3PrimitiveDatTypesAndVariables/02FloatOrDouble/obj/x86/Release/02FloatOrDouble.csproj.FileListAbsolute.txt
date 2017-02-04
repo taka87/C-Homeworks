@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\02FloatOrDouble\bin\Release\02FloatOrDouble.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\02FloatOrDouble\bin\Release\02FloatOrDouble.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\02FloatOrDouble\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\02FloatOrDouble\obj\x86\Release\02FloatOrDouble.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\02FloatOrDouble\obj\x86\Release\02FloatOrDouble.pdb

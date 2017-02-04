@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\02PrintCompanyInformation\bin\Release\02PrintCompanyInformation.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\02PrintCompanyInformation\bin\Release\02PrintCompanyInformation.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\02PrintCompanyInformation\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\02PrintCompanyInformation\obj\x86\Release\02PrintCompanyInformation.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\02PrintCompanyInformation\obj\x86\Release\02PrintCompanyInformation.pdb

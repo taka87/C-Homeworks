@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\12RectangleProperties\bin\Debug\12RectangleProperties.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\12RectangleProperties\bin\Debug\12RectangleProperties.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\12RectangleProperties\bin\Debug\12RectangleProperties.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\12RectangleProperties\obj\Debug\12RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\12RectangleProperties\obj\Debug\12RectangleProperties.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\12RectangleProperties\obj\Debug\12RectangleProperties.pdb

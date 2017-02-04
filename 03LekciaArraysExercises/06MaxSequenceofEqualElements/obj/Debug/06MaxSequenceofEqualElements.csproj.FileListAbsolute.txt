@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\06MaxSequenceofEqualElements\bin\Debug\06MaxSequenceofEqualElements.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\06MaxSequenceofEqualElements\bin\Debug\06MaxSequenceofEqualElements.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\06MaxSequenceofEqualElements\bin\Debug\06MaxSequenceofEqualElements.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\06MaxSequenceofEqualElements\obj\Debug\06MaxSequenceofEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\06MaxSequenceofEqualElements\obj\Debug\06MaxSequenceofEqualElements.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\06MaxSequenceofEqualElements\obj\Debug\06MaxSequenceofEqualElements.pdb

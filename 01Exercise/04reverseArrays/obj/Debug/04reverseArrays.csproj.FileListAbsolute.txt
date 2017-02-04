@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\04reverseArrays\bin\Debug\04reverseArrays.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\04reverseArrays\bin\Debug\04reverseArrays.exe
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\04reverseArrays\bin\Debug\04reverseArrays.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\04reverseArrays\obj\Debug\04reverseArrays.exe
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\04reverseArrays\obj\Debug\04reverseArrays.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\04reverseArrays\obj\Debug\04reverseArrays.csprojResolveAssemblyReference.cache

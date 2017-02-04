@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\02RotateAndSum\bin\Debug\02RotateAndSum.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\02RotateAndSum\bin\Debug\02RotateAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\02RotateAndSum\bin\Debug\02RotateAndSum.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\02RotateAndSum\obj\Debug\02RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\02RotateAndSum\obj\Debug\02RotateAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\02RotateAndSum\obj\Debug\02RotateAndSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\16ArrayMatcherSecond\bin\Debug\16ArrayMatcherSecond.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\16ArrayMatcherSecond\bin\Debug\16ArrayMatcherSecond.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\16ArrayMatcherSecond\bin\Debug\16ArrayMatcherSecond.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\16ArrayMatcherSecond\obj\Debug\16ArrayMatcherSecond.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\16ArrayMatcherSecond\obj\Debug\16ArrayMatcherSecond.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\16ArrayMatcherSecond\obj\Debug\16ArrayMatcherSecond.pdb

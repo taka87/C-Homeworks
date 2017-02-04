@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\21reversedNums\bin\Debug\21reversedNums.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\21reversedNums\bin\Debug\21reversedNums.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\21reversedNums\bin\Debug\21reversedNums.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\21reversedNums\obj\Debug\21reversedNums.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\21reversedNums\obj\Debug\21reversedNums.pdb

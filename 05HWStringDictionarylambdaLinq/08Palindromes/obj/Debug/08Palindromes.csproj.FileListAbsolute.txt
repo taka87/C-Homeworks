@@ -1,0 +1,1 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\05HWStringDictionarylambdaLinq\08Palindromes\bin\Debug\08Palindromes.exe.config

@@ -1,0 +1,10 @@
+E:\Documents and Settings\RG\Local Settings\Application Data\Temporary Projects\HW3PrimitiveDatTypesAndVariables\bin\Release\HW3PrimitiveDatTypesAndVariables.exe
+E:\Documents and Settings\RG\Local Settings\Application Data\Temporary Projects\HW3PrimitiveDatTypesAndVariables\bin\Release\HW3PrimitiveDatTypesAndVariables.pdb
+E:\Documents and Settings\RG\Local Settings\Application Data\Temporary Projects\HW3PrimitiveDatTypesAndVariables\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\Local Settings\Application Data\Temporary Projects\HW3PrimitiveDatTypesAndVariables\obj\x86\Release\HW3PrimitiveDatTypesAndVariables.exe
+E:\Documents and Settings\RG\Local Settings\Application Data\Temporary Projects\HW3PrimitiveDatTypesAndVariables\obj\x86\Release\HW3PrimitiveDatTypesAndVariables.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\01DeclareVariables\bin\Release\01DeclareVariables.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\01DeclareVariables\bin\Release\01DeclareVariables.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\01DeclareVariables\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\01DeclareVariables\obj\x86\Release\01DeclareVariables.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\01DeclareVariables\obj\x86\Release\01DeclareVariables.pdb

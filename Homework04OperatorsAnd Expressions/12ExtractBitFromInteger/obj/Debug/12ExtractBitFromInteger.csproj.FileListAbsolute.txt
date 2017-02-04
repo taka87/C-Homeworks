@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb

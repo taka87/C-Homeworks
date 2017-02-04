@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\05UrlParserTEST\bin\Debug\05UrlParserTEST.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\05UrlParserTEST\bin\Debug\05UrlParserTEST.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\05UrlParserTEST\bin\Debug\05UrlParserTEST.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\05UrlParserTEST\obj\Debug\05UrlParserTEST.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\05UrlParserTEST\obj\Debug\05UrlParserTEST.pdb

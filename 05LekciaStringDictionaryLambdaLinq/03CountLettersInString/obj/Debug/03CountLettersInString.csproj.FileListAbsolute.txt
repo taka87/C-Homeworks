@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\03CountLettersInString\bin\Debug\03CountLettersInString.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\03CountLettersInString\bin\Debug\03CountLettersInString.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\03CountLettersInString\bin\Debug\03CountLettersInString.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\03CountLettersInString\obj\Debug\03CountLettersInString.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\03CountLettersInString\obj\Debug\03CountLettersInString.pdb

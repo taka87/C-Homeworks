@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\07PrintFirstAndLastName\bin\Debug\07PrintFirstAndLastName.exe.config
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\07PrintFirstAndLastName\bin\Debug\07PrintFirstAndLastName.exe
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\07PrintFirstAndLastName\bin\Debug\07PrintFirstAndLastName.pdb
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\07PrintFirstAndLastName\obj\Debug\07PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\07PrintFirstAndLastName\obj\Debug\07PrintFirstAndLastName.exe
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\07PrintFirstAndLastName\obj\Debug\07PrintFirstAndLastName.pdb

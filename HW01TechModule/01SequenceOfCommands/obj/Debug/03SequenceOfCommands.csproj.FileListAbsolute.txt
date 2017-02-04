@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01SequenceOfCommands\bin\Debug\01SequenceOfCommands.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01SequenceOfCommands\bin\Debug\01SequenceOfCommands.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01SequenceOfCommands\bin\Debug\01SequenceOfCommands.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01SequenceOfCommands\obj\Debug\01SequenceOfCommands.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01SequenceOfCommands\obj\Debug\01SequenceOfCommands.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\01SequenceOfCommands\obj\Debug\03SequenceOfCommands.csprojResolveAssemblyReference.cache

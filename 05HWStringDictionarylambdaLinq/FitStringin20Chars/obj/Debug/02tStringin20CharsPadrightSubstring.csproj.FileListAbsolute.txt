@@ -1,0 +1,3 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\FitStringin20Chars\bin\Debug\FitStringin20Chars.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\FitStringin20Chars\obj\Debug\FitStringin20Chars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\FitStringin20Chars\obj\Debug\FitStringin20Chars.pdb

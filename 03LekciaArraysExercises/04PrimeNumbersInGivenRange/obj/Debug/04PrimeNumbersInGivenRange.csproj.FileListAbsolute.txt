@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbersInGivenRange\bin\Debug\04PrimeNumbersInGivenRange.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbersInGivenRange\bin\Debug\04PrimeNumbersInGivenRange.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbersInGivenRange\bin\Debug\04PrimeNumbersInGivenRange.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbersInGivenRange\obj\Debug\04PrimeNumbersInGivenRange.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbersInGivenRange\obj\Debug\04PrimeNumbersInGivenRange.pdb

@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07Increasing\bin\Debug\07Increasing.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07Increasing\bin\Debug\07Increasing.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07Increasing\bin\Debug\07Increasing.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07Increasing\obj\Debug\07Increasing.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\07Increasing\obj\Debug\07Increasing.pdb

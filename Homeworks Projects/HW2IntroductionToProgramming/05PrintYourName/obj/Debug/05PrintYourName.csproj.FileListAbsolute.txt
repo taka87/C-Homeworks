@@ -1,0 +1,1 @@
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\05PrintYourName\bin\Debug\05PrintYourName.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\10PairsByDifference\bin\Debug\10PairsByDifference.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\10PairsByDifference\bin\Debug\10PairsByDifference.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\10PairsByDifference\bin\Debug\10PairsByDifference.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\10PairsByDifference\obj\Debug\10PairsByDifference.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\10PairsByDifference\obj\Debug\10PairsByDifference.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\03CensorYourEmailAddress\bin\Debug\03CensorYourEmailAddress.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\03CensorYourEmailAddress\bin\Debug\03CensorYourEmailAddress.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\03CensorYourEmailAddress\bin\Debug\03CensorYourEmailAddress.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\03CensorYourEmailAddress\obj\Debug\03CensorYourEmailAddress.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\03CensorYourEmailAddress\obj\Debug\03CensorYourEmailAddress.pdb

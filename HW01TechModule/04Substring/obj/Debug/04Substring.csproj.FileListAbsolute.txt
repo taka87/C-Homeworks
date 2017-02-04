@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\04Substring\bin\Debug\04Substring.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\04Substring\bin\Debug\04Substring.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\04Substring\bin\Debug\04Substring.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\04Substring\obj\Debug\04Substring.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\04Substring\obj\Debug\04Substring.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW01TechModule\04Substring\obj\Debug\04Substring.csprojResolveAssemblyReference.cache

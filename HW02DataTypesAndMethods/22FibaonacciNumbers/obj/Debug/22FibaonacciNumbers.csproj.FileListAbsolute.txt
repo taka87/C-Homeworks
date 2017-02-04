@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\22FibaonacciNumbers\bin\Debug\22FibaonacciNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\22FibaonacciNumbers\bin\Debug\22FibaonacciNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\22FibaonacciNumbers\bin\Debug\22FibaonacciNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\22FibaonacciNumbers\obj\Debug\22FibaonacciNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\22FibaonacciNumbers\obj\Debug\22FibaonacciNumbers.pdb

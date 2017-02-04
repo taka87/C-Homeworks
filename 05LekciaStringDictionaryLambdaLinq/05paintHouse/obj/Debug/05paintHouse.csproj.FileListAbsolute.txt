@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\05paintHouse\bin\Debug\05paintHouse.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\05paintHouse\bin\Debug\05paintHouse.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\05paintHouse\bin\Debug\05paintHouse.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\05paintHouse\obj\Debug\05paintHouse.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\05paintHouse\obj\Debug\05paintHouse.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\05paintHouse\obj\Debug\05paintHouse.pdb

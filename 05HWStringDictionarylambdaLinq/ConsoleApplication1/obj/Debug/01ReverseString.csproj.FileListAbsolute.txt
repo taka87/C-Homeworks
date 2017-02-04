@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\ConsoleApplication1\obj\Debug\01ReverseString.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

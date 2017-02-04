@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\23PrimeChecker\bin\Debug\23PrimeChecker.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\23PrimeChecker\bin\Debug\23PrimeChecker.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\23PrimeChecker\bin\Debug\23PrimeChecker.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\23PrimeChecker\obj\Debug\23PrimeChecker.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\23PrimeChecker\obj\Debug\23PrimeChecker.pdb

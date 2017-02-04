@@ -1,0 +1,3 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\05FourDigitNumber\bin\Debug\05FourDigitNumber.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\05FourDigitNumber\obj\Debug\05FourDigitNumber.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homework04OperatorsAnd Expressions\05FourDigitNumber\obj\Debug\05FourDigitNumber.pdb

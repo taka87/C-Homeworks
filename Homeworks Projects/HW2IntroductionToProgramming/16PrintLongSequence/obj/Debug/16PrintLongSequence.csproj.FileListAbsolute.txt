@@ -1,0 +1,5 @@
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\16PrintLongSequence\obj\Debug\16PrintLongSequence.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\16PrintLongSequence\obj\Debug\16PrintLongSequence.pdb

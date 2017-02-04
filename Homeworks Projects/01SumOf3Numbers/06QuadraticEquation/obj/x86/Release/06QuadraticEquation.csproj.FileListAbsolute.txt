@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\06QuadraticEquation\bin\Release\06QuadraticEquation.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\06QuadraticEquation\bin\Release\06QuadraticEquation.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\06QuadraticEquation\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\06QuadraticEquation\obj\x86\Release\06QuadraticEquation.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\06QuadraticEquation\obj\x86\Release\06QuadraticEquation.pdb

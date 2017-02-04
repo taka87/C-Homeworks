@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\17DifferentIntegersSize\bin\Debug\17DifferentIntegersSize.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\17DifferentIntegersSize\bin\Debug\17DifferentIntegersSize.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\17DifferentIntegersSize\bin\Debug\17DifferentIntegersSize.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\17DifferentIntegersSize\obj\Debug\17DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\17DifferentIntegersSize\obj\Debug\17DifferentIntegersSize.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW02DataTypesAndMethods\17DifferentIntegersSize\obj\Debug\17DifferentIntegersSize.pdb

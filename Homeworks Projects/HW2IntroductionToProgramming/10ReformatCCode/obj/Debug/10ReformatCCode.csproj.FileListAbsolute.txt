@@ -1,0 +1,5 @@
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\10ReformatCCode\bin\Debug\10ReformatCCode.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\10ReformatCCode\bin\Debug\10ReformatCCode.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\10ReformatCCode\bin\Debug\10ReformatCCode.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\10ReformatCCode\obj\Debug\10ReformatCCode.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\10ReformatCCode\obj\Debug\10ReformatCCode.pdb

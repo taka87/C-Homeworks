@@ -1,0 +1,1 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05HWStringDictionarylambdaLinq\06ReverseWordsInSentence\bin\Debug\06ReverseWordsInSentence.exe.config

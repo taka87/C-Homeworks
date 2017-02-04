@@ -1,0 +1,1 @@
+c:\users\tezcan\documents\visual studio 2012\Projects\HW2IntroductionToProgramming\03PlayWithMSDNLibrary\bin\Debug\03PlayWithMSDNLibrary.exe.config

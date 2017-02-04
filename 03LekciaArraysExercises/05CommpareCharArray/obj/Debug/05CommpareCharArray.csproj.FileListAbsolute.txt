@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\05CommpareCharArray\bin\Debug\05CommpareCharArray.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\05CommpareCharArray\bin\Debug\05CommpareCharArray.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\05CommpareCharArray\bin\Debug\05CommpareCharArray.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\05CommpareCharArray\obj\Debug\05CommpareCharArray.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\05CommpareCharArray\obj\Debug\05CommpareCharArray.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\05CommpareCharArray\obj\Debug\05CommpareCharArray.pdb

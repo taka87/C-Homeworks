@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbers\bin\Debug\04PrimeNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbers\bin\Debug\04PrimeNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbers\bin\Debug\04PrimeNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbers\obj\Debug\04PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbers\obj\Debug\04PrimeNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\03LekciaArraysExercises\04PrimeNumbers\obj\Debug\04PrimeNumbers.pdb

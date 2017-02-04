@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\05CondenseArrayToNum\bin\Debug\05CondenseArrayToNum.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\05CondenseArrayToNum\bin\Debug\05CondenseArrayToNum.exe
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\05CondenseArrayToNum\bin\Debug\05CondenseArrayToNum.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\05CondenseArrayToNum\obj\Debug\05CondenseArrayToNum.exe
+c:\users\pilence\documents\visual studio 2015\Projects\01Exercise\05CondenseArrayToNum\obj\Debug\05CondenseArrayToNum.pdb

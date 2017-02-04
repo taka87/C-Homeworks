@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.exe
+C:\Users\Tezcan\Documents\Visual Studio 2012\Projects\HW2IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.pdb

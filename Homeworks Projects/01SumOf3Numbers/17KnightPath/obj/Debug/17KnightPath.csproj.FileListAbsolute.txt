@@ -1,0 +1,6 @@
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\17KnightPath\bin\Debug\17KnightPath.exe.config
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\17KnightPath\bin\Debug\17KnightPath.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\17KnightPath\bin\Debug\17KnightPath.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\17KnightPath\obj\Debug\17KnightPath.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\17KnightPath\obj\Debug\17KnightPath.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\Homeworks Projects\01SumOf3Numbers\17KnightPath\obj\Debug\17KnightPath.pdb

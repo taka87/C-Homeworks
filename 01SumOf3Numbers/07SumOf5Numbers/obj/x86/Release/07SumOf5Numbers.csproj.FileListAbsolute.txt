@@ -1,0 +1,7 @@
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\07SumOf5Numbers\bin\Release\07SumOf5Numbers.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\07SumOf5Numbers\bin\Release\07SumOf5Numbers.pdb
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\07SumOf5Numbers\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\07SumOf5Numbers\obj\x86\Release\07SumOf5Numbers.exe
+E:\Documents and Settings\RG\my documents\visual studio 2010\Projects\01SumOf3Numbers\07SumOf5Numbers\obj\x86\Release\07SumOf5Numbers.pdb
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\01SumOf3Numbers\07SumOf5Numbers\obj\x86\Release\07SumOf5Numbers.exe
+C:\Users\Tezcan\Documents\Visual Studio 2015\Projects\01SumOf3Numbers\07SumOf5Numbers\obj\x86\Release\07SumOf5Numbers.pdb
