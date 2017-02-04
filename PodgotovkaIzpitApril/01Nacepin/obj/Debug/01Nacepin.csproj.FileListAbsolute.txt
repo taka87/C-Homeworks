@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\01Nacepin\bin\Debug\01Nacepin.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\01Nacepin\bin\Debug\01Nacepin.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\01Nacepin\bin\Debug\01Nacepin.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\01Nacepin\obj\Debug\01Nacepin.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\01Nacepin\obj\Debug\01Nacepin.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\01Nacepin\obj\Debug\01Nacepin.pdb

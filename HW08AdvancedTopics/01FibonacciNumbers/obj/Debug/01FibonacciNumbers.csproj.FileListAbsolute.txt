@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.pdb

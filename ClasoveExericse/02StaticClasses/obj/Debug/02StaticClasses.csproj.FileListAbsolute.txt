@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\02StaticClasses\bin\Debug\02StaticClasses.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\02StaticClasses\bin\Debug\02StaticClasses.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\02StaticClasses\bin\Debug\02StaticClasses.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\02StaticClasses\obj\Debug\02StaticClasses.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\02StaticClasses\obj\Debug\02StaticClasses.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW6paintWithLoops\08SunGlases\bin\Debug\08SunGlases.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW6paintWithLoops\08SunGlases\bin\Debug\08SunGlases.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW6paintWithLoops\08SunGlases\bin\Debug\08SunGlases.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW6paintWithLoops\08SunGlases\obj\Debug\08SunGlases.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW6paintWithLoops\08SunGlases\obj\Debug\08SunGlases.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW6paintWithLoops\08SunGlases\obj\Debug\08SunGlases.pdb

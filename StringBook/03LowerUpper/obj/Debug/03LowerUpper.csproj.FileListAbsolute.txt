@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\03LowerUpper\bin\Debug\03LowerUpper.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\03LowerUpper\bin\Debug\03LowerUpper.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\03LowerUpper\bin\Debug\03LowerUpper.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\03LowerUpper\obj\Debug\03LowerUpper.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\03LowerUpper\obj\Debug\03LowerUpper.pdb

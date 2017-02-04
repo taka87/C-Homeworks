@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\13GlavniBukvi\bin\Debug\13GlavniBukvi.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\13GlavniBukvi\bin\Debug\13GlavniBukvi.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\13GlavniBukvi\bin\Debug\13GlavniBukvi.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\13GlavniBukvi\obj\Debug\13GlavniBukvi.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\13GlavniBukvi\obj\Debug\13GlavniBukvi.pdb

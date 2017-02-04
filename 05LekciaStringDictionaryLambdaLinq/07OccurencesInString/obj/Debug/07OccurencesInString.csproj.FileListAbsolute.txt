@@ -1,0 +1,1 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\07OccurencesInString\bin\Debug\07OccurencesInString.exe.config

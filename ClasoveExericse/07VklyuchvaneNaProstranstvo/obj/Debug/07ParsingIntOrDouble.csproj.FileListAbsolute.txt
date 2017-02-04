@@ -1,0 +1,3 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\bin\Debug\07VklyuchvaneNaProstranstvo.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\obj\Debug\07VklyuchvaneNaProstranstvo.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\obj\Debug\07VklyuchvaneNaProstranstvo.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\02NumberFromNToOne\bin\Debug\02NumberFromNToOne.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\02NumberFromNToOne\bin\Debug\02NumberFromNToOne.exe
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\02NumberFromNToOne\bin\Debug\02NumberFromNToOne.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\02NumberFromNToOne\obj\Debug\02NumberFromNToOne.exe
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\02NumberFromNToOne\obj\Debug\02NumberFromNToOne.pdb

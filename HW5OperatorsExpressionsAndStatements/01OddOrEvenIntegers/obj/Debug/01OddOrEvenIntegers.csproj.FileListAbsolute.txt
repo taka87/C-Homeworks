@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\01ElementsIn Classes\bin\Debug\01ElementsIn Classes.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\01ElementsIn Classes\bin\Debug\01ElementsIn Classes.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\01ElementsIn Classes\bin\Debug\01ElementsIn Classes.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\01ElementsIn Classes\obj\Debug\01ElementsIn Classes.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\01ElementsIn Classes\obj\Debug\01ElementsIn Classes.pdb

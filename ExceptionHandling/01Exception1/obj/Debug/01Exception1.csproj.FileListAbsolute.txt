@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\ExceptionHandling\01Exception1\bin\Debug\01Exception1.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\ExceptionHandling\01Exception1\obj\Debug\01Exception1.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\ExceptionHandling\01Exception1\bin\Debug\01Exception1.exe
+c:\users\pilence\documents\visual studio 2015\Projects\ExceptionHandling\01Exception1\bin\Debug\01Exception1.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\ExceptionHandling\01Exception1\obj\Debug\01Exception1.exe
+c:\users\pilence\documents\visual studio 2015\Projects\ExceptionHandling\01Exception1\obj\Debug\01Exception1.pdb

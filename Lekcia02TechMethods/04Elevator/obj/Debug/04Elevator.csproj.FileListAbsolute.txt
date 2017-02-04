@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\04Elevator\bin\Debug\04Elevator.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\04Elevator\bin\Debug\04Elevator.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\04Elevator\bin\Debug\04Elevator.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\04Elevator\obj\Debug\04Elevator.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\04Elevator\obj\Debug\04Elevator.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\04Elevator\obj\Debug\04Elevator.pdb

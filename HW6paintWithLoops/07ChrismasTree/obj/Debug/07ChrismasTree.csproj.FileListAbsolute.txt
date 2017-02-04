@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\07ChrismasTree\bin\Debug\07ChrismasTree.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\07ChrismasTree\bin\Debug\07ChrismasTree.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\07ChrismasTree\bin\Debug\07ChrismasTree.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\07ChrismasTree\obj\Debug\07ChrismasTree.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\07ChrismasTree\obj\Debug\07ChrismasTree.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\07ChrismasTree\obj\Debug\07ChrismasTree.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\03Environment\bin\Debug\03Environment.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\03Environment\bin\Debug\03Environment.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\03Environment\bin\Debug\03Environment.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\03Environment\obj\Debug\03Environment.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\03Environment\obj\Debug\03Environment.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\03Environment\obj\Debug\03Environment.pdb

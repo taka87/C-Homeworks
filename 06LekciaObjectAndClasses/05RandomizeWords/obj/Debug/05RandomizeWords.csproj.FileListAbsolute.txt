@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\05RandomizeWords\bin\Debug\05RandomizeWords.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\05RandomizeWords\bin\Debug\05RandomizeWords.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\05RandomizeWords\bin\Debug\05RandomizeWords.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\05RandomizeWords\obj\Debug\05RandomizeWords.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\05RandomizeWords\obj\Debug\05RandomizeWords.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\05RandomizeWords\obj\Debug\05RandomizeWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\06DistanceBetweePoints\bin\Debug\06DistanceBetweePoints.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\06DistanceBetweePoints\bin\Debug\06DistanceBetweePoints.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\06DistanceBetweePoints\bin\Debug\06DistanceBetweePoints.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\06DistanceBetweePoints\obj\Debug\06DistanceBetweePoints.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\06DistanceBetweePoints\obj\Debug\06DistanceBetweePoints.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\06DistanceBetweePoints\obj\Debug\06DistanceBetweePoints.pdb

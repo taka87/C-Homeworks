@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\01MaxSequenceOfEqualElement\bin\Debug\01MaxSequenceOfEqualElement.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\01MaxSequenceOfEqualElement\bin\Debug\01MaxSequenceOfEqualElement.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\01MaxSequenceOfEqualElement\bin\Debug\01MaxSequenceOfEqualElement.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\01MaxSequenceOfEqualElement\obj\Debug\01MaxSequenceOfEqualElement.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\01MaxSequenceOfEqualElement\obj\Debug\01MaxSequenceOfEqualElement.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\01MaxSequenceOfEqualElement\obj\Debug\01MaxSequenceOfEqualElement.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\05Square\bin\Debug\05Square.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\05Square\bin\Debug\05Square.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\05Square\bin\Debug\05Square.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\05Square\obj\Debug\05Square.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\05Square\obj\Debug\05Square.pdb

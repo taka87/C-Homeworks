@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02Exercose\bin\Debug\02Exercose.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02Exercose\obj\Debug\02Exercose.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02Exercose\obj\Debug\02Exercose.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02Exercose\bin\Debug\02Exercose.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02Exercose\bin\Debug\02Exercose.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02Exercose\obj\Debug\02ExercoseBigintRANDOM.csprojResolveAssemblyReference.cache

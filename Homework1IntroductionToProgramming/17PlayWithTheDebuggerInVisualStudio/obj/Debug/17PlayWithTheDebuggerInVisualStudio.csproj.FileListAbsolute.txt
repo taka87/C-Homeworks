@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\bin\Debug\17PlayWithTheDebuggerInVisualStudio.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\bin\Debug\17PlayWithTheDebuggerInVisualStudio.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\bin\Debug\17PlayWithTheDebuggerInVisualStudio.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\obj\Debug\17PlayWithTheDebuggerInVisualStudio.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\obj\Debug\17PlayWithTheDebuggerInVisualStudio.pdb

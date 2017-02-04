@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixgeneratorCOPyTOD\bin\Debug\07MatrixgeneratorCOPyTOD.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixgeneratorCOPyTOD\bin\Debug\07MatrixgeneratorCOPyTOD.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixgeneratorCOPyTOD\bin\Debug\07MatrixgeneratorCOPyTOD.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixgeneratorCOPyTOD\obj\Debug\07MatrixgeneratorCOPyTOD.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixgeneratorCOPyTOD\obj\Debug\07MatrixgeneratorCOPyTOD.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixgeneratorCOPyTOD\obj\Debug\07MatrixgeneratorCOPyTOD.pdb

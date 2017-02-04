@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\ConditionalStatementsExercises\ConditionalStatementsExercises\bin\Debug\ConditionalStatementsExercises.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\ConditionalStatementsExercises\ConditionalStatementsExercises\bin\Debug\ConditionalStatementsExercises.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\ConditionalStatementsExercises\ConditionalStatementsExercises\bin\Debug\ConditionalStatementsExercises.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\ConditionalStatementsExercises\ConditionalStatementsExercises\obj\Debug\ConditionalStatementsExercises.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\ConditionalStatementsExercises\ConditionalStatementsExercises\obj\Debug\ConditionalStatementsExercises.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\ConditionalStatementsExercises\ConditionalStatementsExercises\obj\Debug\ConditionalStatementsExercises.pdb

@@ -1,0 +1,1 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\07LargestFrameInMatrix\bin\Debug\07LargestFrameInMatrix.exe.config

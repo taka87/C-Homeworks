@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\04MonopolyGame\bin\Debug\04MonopolyGame.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\04MonopolyGame\bin\Debug\04MonopolyGame.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\04MonopolyGame\bin\Debug\04MonopolyGame.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\04MonopolyGame\obj\Debug\04MonopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\04MonopolyGame\obj\Debug\04MonopolyGame.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\04MonopolyGame\obj\Debug\04MonopolyGame.pdb

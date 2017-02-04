@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\04CalculateNumbers\bin\Debug\04CalculateNumbers.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\04CalculateNumbers\bin\Debug\04CalculateNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\04CalculateNumbers\bin\Debug\04CalculateNumbers.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\04CalculateNumbers\obj\Debug\04CalculateNumbers.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\04CalculateNumbers\obj\Debug\04CalculateNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\04CalculateNumbers\obj\Debug\04CalculateNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.pdb

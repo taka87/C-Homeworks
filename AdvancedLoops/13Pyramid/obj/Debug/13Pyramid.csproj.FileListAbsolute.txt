@@ -1,0 +1,5 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\13Pyramid\bin\Debug\13Pyramid.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\13Pyramid\bin\Debug\13Pyramid.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\13Pyramid\bin\Debug\13Pyramid.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\13Pyramid\obj\Debug\13Pyramid.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\13Pyramid\obj\Debug\13Pyramid.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\11EvenNumber\bin\Debug\11EvenNumber.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\11EvenNumber\bin\Debug\11EvenNumber.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\11EvenNumber\bin\Debug\11EvenNumber.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\11EvenNumber\obj\Debug\11EvenNumber.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\11EvenNumber\obj\Debug\11EvenNumber.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\11EvenNumber\obj\Debug\11EvenNumber.csprojResolveAssemblyReference.cache

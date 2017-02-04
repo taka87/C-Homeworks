@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\09RegexReplace\bin\Debug\09RegexReplace.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\09RegexReplace\bin\Debug\09RegexReplace.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\09RegexReplace\bin\Debug\09RegexReplace.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\09RegexReplace\obj\Debug\09RegexReplace.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\09RegexReplace\obj\Debug\09RegexReplace.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\16LargestThreeNumbers\bin\Debug\16LargestThreeNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\16LargestThreeNumbers\bin\Debug\16LargestThreeNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\16LargestThreeNumbers\bin\Debug\16LargestThreeNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\16LargestThreeNumbers\obj\Debug\16LargestThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\16LargestThreeNumbers\obj\Debug\16LargestThreeNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\16LargestThreeNumbers\obj\Debug\16LargestThreeNumbers.pdb

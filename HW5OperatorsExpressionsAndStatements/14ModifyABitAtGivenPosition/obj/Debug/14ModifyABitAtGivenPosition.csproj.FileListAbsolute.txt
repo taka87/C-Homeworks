@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Techlekcia1\02FindAndFixBugsInCode\bin\Debug\02FindAndFixBugsInCode.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\Techlekcia1\02FindAndFixBugsInCode\bin\Debug\02FindAndFixBugsInCode.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Techlekcia1\02FindAndFixBugsInCode\bin\Debug\02FindAndFixBugsInCode.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\Techlekcia1\02FindAndFixBugsInCode\obj\Debug\02FindAndFixBugsInCode.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Techlekcia1\02FindAndFixBugsInCode\obj\Debug\02FindAndFixBugsInCode.pdb

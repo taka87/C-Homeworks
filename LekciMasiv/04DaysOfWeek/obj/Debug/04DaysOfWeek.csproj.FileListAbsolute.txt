@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\04DaysOfWeek\bin\Debug\04DaysOfWeek.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\04DaysOfWeek\bin\Debug\04DaysOfWeek.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\04DaysOfWeek\bin\Debug\04DaysOfWeek.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\04DaysOfWeek\obj\Debug\04DaysOfWeek.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\04DaysOfWeek\obj\Debug\04DaysOfWeek.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\04DaysOfWeek\obj\Debug\04DaysOfWeek.pdb

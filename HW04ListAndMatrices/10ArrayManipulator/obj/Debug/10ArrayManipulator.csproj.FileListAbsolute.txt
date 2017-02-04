@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulator\bin\Debug\10ArrayManipulator.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulator\bin\Debug\10ArrayManipulator.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulator\bin\Debug\10ArrayManipulator.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulator\obj\Debug\10ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulator\obj\Debug\10ArrayManipulator.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulator\obj\Debug\10ArrayManipulator.pdb

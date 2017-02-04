@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\10PrimeNumber\bin\Debug\10PrimeNumber.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\10PrimeNumber\bin\Debug\10PrimeNumber.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\10PrimeNumber\bin\Debug\10PrimeNumber.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\10PrimeNumber\obj\Debug\10PrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\10PrimeNumber\obj\Debug\10PrimeNumber.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\10PrimeNumber\obj\Debug\10PrimeNumber.pdb

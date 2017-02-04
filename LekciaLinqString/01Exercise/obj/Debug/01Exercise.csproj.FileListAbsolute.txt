@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\01Exercise\bin\Debug\01Exercise.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\01Exercise\bin\Debug\01Exercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\01Exercise\bin\Debug\01Exercise.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\01Exercise\obj\Debug\01Exercise.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\01Exercise\obj\Debug\01Exercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\01Exercise\obj\Debug\01Exercise.pdb

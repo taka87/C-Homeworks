@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\20RotateAndSum\bin\Debug\20RotateAndSum.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\20RotateAndSum\bin\Debug\20RotateAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\20RotateAndSum\bin\Debug\20RotateAndSum.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\20RotateAndSum\obj\Debug\20RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\20RotateAndSum\obj\Debug\20RotateAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\20RotateAndSum\obj\Debug\20RotateAndSum.pdb

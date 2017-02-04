@@ -1,0 +1,1 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Techlekcia1\03DoublePalindromes\bin\Debug\03DoublePalindromes.exe.config

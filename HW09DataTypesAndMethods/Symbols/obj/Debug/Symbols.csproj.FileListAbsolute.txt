@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\Symbols\bin\Debug\Symbols.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\Symbols\bin\Debug\Symbols.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\Symbols\bin\Debug\Symbols.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\Symbols\obj\Debug\Symbols.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\Symbols\obj\Debug\Symbols.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\Symbols\obj\Debug\Symbols.pdb

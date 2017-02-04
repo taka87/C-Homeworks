@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\17MiddleElementsInArray\bin\Debug\17MiddleElementsInArray.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\17MiddleElementsInArray\bin\Debug\17MiddleElementsInArray.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\17MiddleElementsInArray\bin\Debug\17MiddleElementsInArray.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\17MiddleElementsInArray\obj\Debug\17MiddleElementsInArray.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\17MiddleElementsInArray\obj\Debug\17MiddleElementsInArray.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\17MiddleElementsInArray\obj\Debug\17MiddleElementsInArray.pdb

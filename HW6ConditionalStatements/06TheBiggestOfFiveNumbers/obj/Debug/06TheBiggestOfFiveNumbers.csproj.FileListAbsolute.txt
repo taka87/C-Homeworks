@@ -1,0 +1,5 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.pdb

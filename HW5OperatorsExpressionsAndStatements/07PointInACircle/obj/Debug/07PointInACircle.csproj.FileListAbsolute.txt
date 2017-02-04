@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.pdb

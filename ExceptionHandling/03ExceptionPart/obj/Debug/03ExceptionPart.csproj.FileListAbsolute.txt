@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\ExceptionHandling\03ExceptionPart\bin\Debug\03ExceptionPart.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\ExceptionHandling\03ExceptionPart\bin\Debug\03ExceptionPart.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ExceptionHandling\03ExceptionPart\bin\Debug\03ExceptionPart.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\ExceptionHandling\03ExceptionPart\obj\Debug\03ExceptionPart.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ExceptionHandling\03ExceptionPart\obj\Debug\03ExceptionPart.pdb

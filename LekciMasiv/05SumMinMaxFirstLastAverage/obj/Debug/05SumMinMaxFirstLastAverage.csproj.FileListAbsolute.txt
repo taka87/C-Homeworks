@@ -1,0 +1,1 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\05SumMinMaxFirstLastAverage\bin\Debug\05SumMinMaxFirstLastAverage.exe.config

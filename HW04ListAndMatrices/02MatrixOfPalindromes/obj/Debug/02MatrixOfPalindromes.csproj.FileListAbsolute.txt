@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\02MatrixOfPalindromes\bin\Debug\02MatrixOfPalindromes.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\02MatrixOfPalindromes\bin\Debug\02MatrixOfPalindromes.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\02MatrixOfPalindromes\bin\Debug\02MatrixOfPalindromes.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\02MatrixOfPalindromes\obj\Debug\02MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\02MatrixOfPalindromes\obj\Debug\02MatrixOfPalindromes.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\02MatrixOfPalindromes\obj\Debug\02MatrixOfPalindromes.pdb

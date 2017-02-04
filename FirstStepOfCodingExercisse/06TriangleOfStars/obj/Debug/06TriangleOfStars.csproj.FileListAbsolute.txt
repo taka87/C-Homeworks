@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\FirstStepOfCodingExercisse\06TriangleOfStars\bin\Debug\06TriangleOfStars.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\FirstStepOfCodingExercisse\06TriangleOfStars\bin\Debug\06TriangleOfStars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\FirstStepOfCodingExercisse\06TriangleOfStars\bin\Debug\06TriangleOfStars.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\FirstStepOfCodingExercisse\06TriangleOfStars\obj\Debug\06TriangleOfStars.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\FirstStepOfCodingExercisse\06TriangleOfStars\obj\Debug\06TriangleOfStars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\FirstStepOfCodingExercisse\06TriangleOfStars\obj\Debug\06TriangleOfStars.pdb

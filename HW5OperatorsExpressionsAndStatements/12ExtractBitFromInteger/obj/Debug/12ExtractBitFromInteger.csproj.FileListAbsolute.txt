@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb

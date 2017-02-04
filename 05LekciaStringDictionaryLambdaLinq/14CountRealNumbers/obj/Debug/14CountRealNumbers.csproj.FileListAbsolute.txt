@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\14CountRealNumbers\bin\Debug\14CountRealNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\14CountRealNumbers\bin\Debug\14CountRealNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\14CountRealNumbers\bin\Debug\14CountRealNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\14CountRealNumbers\obj\Debug\14CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\14CountRealNumbers\obj\Debug\14CountRealNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\14CountRealNumbers\obj\Debug\14CountRealNumbers.pdb

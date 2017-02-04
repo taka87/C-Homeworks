@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulatorCOPY\bin\Debug\10ArrayManipulatorCOPY.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulatorCOPY\bin\Debug\10ArrayManipulatorCOPY.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulatorCOPY\bin\Debug\10ArrayManipulatorCOPY.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulatorCOPY\obj\Debug\10ArrayManipulatorCOPY.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulatorCOPY\obj\Debug\10ArrayManipulatorCOPY.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\10ArrayManipulatorCOPY\obj\Debug\10ArrayManipulatorCOPY.pdb

@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\01TheFootballStatistician\bin\Debug\01TheFootballStatistician.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\01TheFootballStatistician\obj\Debug\01TheFootballStatistician.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\01TheFootballStatistician\bin\Debug\01TheFootballStatistician.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\01TheFootballStatistician\bin\Debug\01TheFootballStatistician.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\01TheFootballStatistician\obj\Debug\01TheFootballStatistician.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\01TheFootballStatistician\obj\Debug\01TheFootballStatistician.pdb

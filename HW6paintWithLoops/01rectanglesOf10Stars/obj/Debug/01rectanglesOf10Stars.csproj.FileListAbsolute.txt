@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\01rectanglesOf10Stars\bin\Debug\01rectanglesOf10Stars.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\01rectanglesOf10Stars\bin\Debug\01rectanglesOf10Stars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\01rectanglesOf10Stars\bin\Debug\01rectanglesOf10Stars.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\01rectanglesOf10Stars\obj\Debug\01rectanglesOf10Stars.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\01rectanglesOf10Stars\obj\Debug\01rectanglesOf10Stars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\01rectanglesOf10Stars\obj\Debug\01rectanglesOf10Stars.pdb

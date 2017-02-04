@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb

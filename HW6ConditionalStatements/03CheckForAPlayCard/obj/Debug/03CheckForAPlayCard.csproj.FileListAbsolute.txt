@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.pdb

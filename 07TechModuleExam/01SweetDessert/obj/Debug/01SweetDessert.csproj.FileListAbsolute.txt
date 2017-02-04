@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\01SweetDessert\bin\Debug\01SweetDessert.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\01SweetDessert\bin\Debug\01SweetDessert.exe
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\01SweetDessert\bin\Debug\01SweetDessert.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\01SweetDessert\obj\Debug\01SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\01SweetDessert\obj\Debug\01SweetDessert.exe
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\01SweetDessert\obj\Debug\01SweetDessert.pdb

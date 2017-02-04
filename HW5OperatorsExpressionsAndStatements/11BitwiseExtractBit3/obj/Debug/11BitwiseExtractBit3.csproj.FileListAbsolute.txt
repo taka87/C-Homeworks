@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.pdb

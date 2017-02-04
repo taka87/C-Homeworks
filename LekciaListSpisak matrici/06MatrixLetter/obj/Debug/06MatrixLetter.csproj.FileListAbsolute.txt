@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixLetter\bin\Debug\06MatrixLetter.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixLetter\bin\Debug\06MatrixLetter.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixLetter\bin\Debug\06MatrixLetter.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixLetter\obj\Debug\06MatrixLetter.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixLetter\obj\Debug\06MatrixLetter.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixLetter\obj\Debug\06MatrixLetter.pdb

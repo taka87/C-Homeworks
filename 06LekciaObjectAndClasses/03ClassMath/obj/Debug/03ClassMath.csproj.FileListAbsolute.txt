@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\03ClassMath\bin\Debug\03ClassMath.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\03ClassMath\bin\Debug\03ClassMath.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\03ClassMath\bin\Debug\03ClassMath.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\03ClassMath\obj\Debug\03ClassMath.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\03ClassMath\obj\Debug\03ClassMath.pdb

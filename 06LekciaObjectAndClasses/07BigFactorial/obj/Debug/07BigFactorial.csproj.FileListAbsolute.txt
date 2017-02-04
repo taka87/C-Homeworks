@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\07BigFactorial\bin\Debug\07BigFactorial.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\07BigFactorial\bin\Debug\07BigFactorial.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\07BigFactorial\bin\Debug\07BigFactorial.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\07BigFactorial\obj\Debug\07BigFactorial.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\07BigFactorial\obj\Debug\07BigFactorial.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\07BigFactorial\obj\Debug\07BigFactorial.pdb

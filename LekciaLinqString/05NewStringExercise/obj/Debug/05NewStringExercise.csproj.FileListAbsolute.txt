@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\05NewStringExercise\bin\Debug\05NewStringExercise.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\05NewStringExercise\bin\Debug\05NewStringExercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\05NewStringExercise\bin\Debug\05NewStringExercise.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\05NewStringExercise\obj\Debug\05NewStringExercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\05NewStringExercise\obj\Debug\05NewStringExercise.pdb

@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\02CountLettersInString\bin\Debug\02CountLettersInString.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\02CountLettersInString\bin\Debug\02CountLettersInString.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\02CountLettersInString\bin\Debug\02CountLettersInString.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\02CountLettersInString\obj\Debug\02CountLettersInString.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\02CountLettersInString\obj\Debug\02CountLettersInString.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\02CountLettersInString\obj\Debug\02CountLettersInString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\01PrintStringLetters\bin\Debug\01PrintStringLetters.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\01PrintStringLetters\bin\Debug\01PrintStringLetters.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\01PrintStringLetters\bin\Debug\01PrintStringLetters.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\01PrintStringLetters\obj\Debug\01PrintStringLetters.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\01PrintStringLetters\obj\Debug\01PrintStringLetters.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW08StringDictionarysLambda\01PrintStringLetters\obj\Debug\01PrintStringLetters.pdb

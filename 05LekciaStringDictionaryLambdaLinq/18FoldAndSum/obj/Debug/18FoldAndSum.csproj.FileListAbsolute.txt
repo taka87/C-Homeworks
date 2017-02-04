@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\18FoldAndSum\bin\Debug\18FoldAndSum.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\18FoldAndSum\bin\Debug\18FoldAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\18FoldAndSum\bin\Debug\18FoldAndSum.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\18FoldAndSum\obj\Debug\18FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\18FoldAndSum\obj\Debug\18FoldAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\18FoldAndSum\obj\Debug\18FoldAndSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb

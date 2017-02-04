@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\05RandomNumber\bin\Debug\05RandomNumber.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\05RandomNumber\bin\Debug\05RandomNumber.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\05RandomNumber\bin\Debug\05RandomNumber.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\05RandomNumber\obj\Debug\05RandomNumber.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\05RandomNumber\obj\Debug\05RandomNumber.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\05RandomNumber\obj\Debug\05RandomNumber.pdb

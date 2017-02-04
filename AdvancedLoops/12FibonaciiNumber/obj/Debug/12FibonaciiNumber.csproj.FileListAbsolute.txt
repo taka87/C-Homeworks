@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\12FibonaciiNumber\bin\Debug\12FibonaciiNumber.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\12FibonaciiNumber\bin\Debug\12FibonaciiNumber.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\12FibonaciiNumber\bin\Debug\12FibonaciiNumber.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\12FibonaciiNumber\obj\Debug\12FibonaciiNumber.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\12FibonaciiNumber\obj\Debug\12FibonaciiNumber.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\12FibonaciiNumber\obj\Debug\12FibonaciiNumber.csprojResolveAssemblyReference.cache

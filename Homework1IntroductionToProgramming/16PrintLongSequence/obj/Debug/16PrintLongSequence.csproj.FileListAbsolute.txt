@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\16PrintLongSequence\obj\Debug\16PrintLongSequence.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\16PrintLongSequence\obj\Debug\16PrintLongSequence.pdb

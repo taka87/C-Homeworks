@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04RemoveNegatives\bin\Debug\04RemoveNegatives.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04RemoveNegatives\bin\Debug\04RemoveNegatives.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04RemoveNegatives\bin\Debug\04RemoveNegatives.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04RemoveNegatives\obj\Debug\04RemoveNegatives.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04RemoveNegatives\obj\Debug\04RemoveNegatives.pdb

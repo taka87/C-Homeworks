@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Exercise", "01Exercise\01Exercise.csproj", "{AAC2C155-B393-414D-BC37-5ED3952883AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02FindAndFixBugsInCode", "02FindAndFixBugsInCode\02FindAndFixBugsInCode.csproj", "{1797400E-31E2-4D31-A74F-B8B79BC2E0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03DoublePalindromes", "03DoublePalindromes\03DoublePalindromes.csproj", "{76BD9A00-21B1-45EA-9C5B-FB933A85911E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC2C155-B393-414D-BC37-5ED3952883AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC2C155-B393-414D-BC37-5ED3952883AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC2C155-B393-414D-BC37-5ED3952883AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC2C155-B393-414D-BC37-5ED3952883AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1797400E-31E2-4D31-A74F-B8B79BC2E0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1797400E-31E2-4D31-A74F-B8B79BC2E0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1797400E-31E2-4D31-A74F-B8B79BC2E0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1797400E-31E2-4D31-A74F-B8B79BC2E0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BD9A00-21B1-45EA-9C5B-FB933A85911E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BD9A00-21B1-45EA-9C5B-FB933A85911E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BD9A00-21B1-45EA-9C5B-FB933A85911E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BD9A00-21B1-45EA-9C5B-FB933A85911E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

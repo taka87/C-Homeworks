@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb

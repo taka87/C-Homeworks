@@ -1,0 +1,1 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\02RandomizeWords\bin\Debug\02RandomizeWords.exe.config

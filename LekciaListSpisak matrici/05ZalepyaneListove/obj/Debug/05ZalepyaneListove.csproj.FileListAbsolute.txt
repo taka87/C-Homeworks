@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\05ZalepyaneListove\bin\Debug\05ZalepyaneListove.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\05ZalepyaneListove\bin\Debug\05ZalepyaneListove.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\05ZalepyaneListove\bin\Debug\05ZalepyaneListove.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\05ZalepyaneListove\obj\Debug\05ZalepyaneListove.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\05ZalepyaneListove\obj\Debug\05ZalepyaneListove.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\05ZalepyaneListove\obj\Debug\05ZalepyaneListove.pdb

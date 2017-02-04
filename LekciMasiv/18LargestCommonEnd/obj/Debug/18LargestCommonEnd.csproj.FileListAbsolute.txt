@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\18LargestCommonEnd\bin\Debug\18LargestCommonEnd.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\18LargestCommonEnd\bin\Debug\18LargestCommonEnd.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\18LargestCommonEnd\bin\Debug\18LargestCommonEnd.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\18LargestCommonEnd\obj\Debug\18LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\18LargestCommonEnd\obj\Debug\18LargestCommonEnd.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\18LargestCommonEnd\obj\Debug\18LargestCommonEnd.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\02Concat\bin\Debug\02Concat.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\02Concat\bin\Debug\02Concat.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\02Concat\bin\Debug\02Concat.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\02Concat\obj\Debug\02Concat.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\02Concat\obj\Debug\02Concat.pdb

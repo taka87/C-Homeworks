@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\bin\Debug\07VklyuchvaneNaProstranstvo.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\bin\Debug\07VklyuchvaneNaProstranstvo.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\bin\Debug\07VklyuchvaneNaProstranstvo.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\obj\Debug\07VklyuchvaneNaProstranstvo.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\obj\Debug\07VklyuchvaneNaProstranstvo.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\ClasoveExericse\07VklyuchvaneNaProstranstvo\obj\Debug\07VklyuchvaneNaProstranstvo.pdb

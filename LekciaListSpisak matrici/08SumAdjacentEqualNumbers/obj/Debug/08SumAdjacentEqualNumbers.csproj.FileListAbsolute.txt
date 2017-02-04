@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\08SumAdjacentEqualNumbers\bin\Debug\08SumAdjacentEqualNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\08SumAdjacentEqualNumbers\bin\Debug\08SumAdjacentEqualNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\08SumAdjacentEqualNumbers\bin\Debug\08SumAdjacentEqualNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\08SumAdjacentEqualNumbers\obj\Debug\08SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\08SumAdjacentEqualNumbers\obj\Debug\08SumAdjacentEqualNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\08SumAdjacentEqualNumbers\obj\Debug\08SumAdjacentEqualNumbers.pdb

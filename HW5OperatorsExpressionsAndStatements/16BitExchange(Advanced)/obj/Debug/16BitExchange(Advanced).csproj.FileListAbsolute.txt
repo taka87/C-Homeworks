@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\16BitExchange(Advanced)\bin\Debug\16BitExchange(Advanced).exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\16BitExchange(Advanced)\bin\Debug\16BitExchange(Advanced).exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\16BitExchange(Advanced)\bin\Debug\16BitExchange(Advanced).pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\16BitExchange(Advanced)\obj\Debug\16BitExchange(Advanced).csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\16BitExchange(Advanced)\obj\Debug\16BitExchange(Advanced).exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\16BitExchange(Advanced)\obj\Debug\16BitExchange(Advanced).pdb

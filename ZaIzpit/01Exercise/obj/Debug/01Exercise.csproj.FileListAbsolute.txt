@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\ZaIzpit\01Exercise\bin\Debug\01Exercise.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ZaIzpit\01Exercise\bin\Debug\01Exercise.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ZaIzpit\01Exercise\bin\Debug\01Exercise.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ZaIzpit\01Exercise\obj\Debug\01Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ZaIzpit\01Exercise\obj\Debug\01Exercise.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\ZaIzpit\01Exercise\obj\Debug\01Exercise.pdb

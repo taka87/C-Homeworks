@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\09CompareString\bin\Debug\09CompareString.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\09CompareString\bin\Debug\09CompareString.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\09CompareString\bin\Debug\09CompareString.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\09CompareString\obj\Debug\09CompareString.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\09CompareString\obj\Debug\09CompareString.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\09CompareString\obj\Debug\09CompareString.csprojResolveAssemblyReference.cache

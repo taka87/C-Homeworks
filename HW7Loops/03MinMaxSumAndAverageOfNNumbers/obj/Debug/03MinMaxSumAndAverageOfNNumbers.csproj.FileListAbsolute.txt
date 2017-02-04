@@ -1,0 +1,9 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.pdb

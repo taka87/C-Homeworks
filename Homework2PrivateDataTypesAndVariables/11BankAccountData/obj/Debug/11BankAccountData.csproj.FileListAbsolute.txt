@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.pdb

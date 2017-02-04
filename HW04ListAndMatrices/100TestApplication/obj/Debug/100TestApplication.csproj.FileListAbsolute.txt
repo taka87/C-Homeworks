@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\100TestApplication\bin\Debug\100TestApplication.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\100TestApplication\bin\Debug\100TestApplication.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\100TestApplication\bin\Debug\100TestApplication.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\100TestApplication\obj\Debug\100TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\100TestApplication\obj\Debug\100TestApplication.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\100TestApplication\obj\Debug\100TestApplication.pdb

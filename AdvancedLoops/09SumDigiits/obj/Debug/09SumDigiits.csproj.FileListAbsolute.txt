@@ -1,0 +1,5 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\09SumDigiits\bin\Debug\09SumDigiits.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\09SumDigiits\bin\Debug\09SumDigiits.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\09SumDigiits\bin\Debug\09SumDigiits.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\09SumDigiits\obj\Debug\09SumDigiits.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\09SumDigiits\obj\Debug\09SumDigiits.pdb

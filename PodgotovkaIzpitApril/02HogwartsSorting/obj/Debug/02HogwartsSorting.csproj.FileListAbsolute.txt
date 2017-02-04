@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\02HogwartsSorting\bin\Debug\02HogwartsSorting.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\02HogwartsSorting\bin\Debug\02HogwartsSorting.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\02HogwartsSorting\bin\Debug\02HogwartsSorting.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\02HogwartsSorting\obj\Debug\02HogwartsSorting.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\02HogwartsSorting\obj\Debug\02HogwartsSorting.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaIzpitApril\02HogwartsSorting\obj\Debug\02HogwartsSorting.csprojResolveAssemblyReference.cache

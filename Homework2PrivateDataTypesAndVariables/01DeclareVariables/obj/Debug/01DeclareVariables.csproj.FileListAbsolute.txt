@@ -1,0 +1,9 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\Homework2PrivateDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb

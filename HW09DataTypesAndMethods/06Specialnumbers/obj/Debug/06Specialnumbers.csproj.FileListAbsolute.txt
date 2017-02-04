@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\06Specialnumbers\bin\Debug\06Specialnumbers.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\06Specialnumbers\bin\Debug\06Specialnumbers.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\06Specialnumbers\bin\Debug\06Specialnumbers.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\06Specialnumbers\obj\Debug\06Specialnumbers.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\06Specialnumbers\obj\Debug\06Specialnumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\06Specialnumbers\obj\Debug\06Specialnumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\06Calculate2NumbersFactorial\bin\Debug\06Calculate2NumbersFactorial.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\06Calculate2NumbersFactorial\bin\Debug\06Calculate2NumbersFactorial.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\06Calculate2NumbersFactorial\bin\Debug\06Calculate2NumbersFactorial.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\06Calculate2NumbersFactorial\obj\Debug\06Calculate2NumbersFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\06Calculate2NumbersFactorial\obj\Debug\06Calculate2NumbersFactorial.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\06Calculate2NumbersFactorial\obj\Debug\06Calculate2NumbersFactorial.pdb

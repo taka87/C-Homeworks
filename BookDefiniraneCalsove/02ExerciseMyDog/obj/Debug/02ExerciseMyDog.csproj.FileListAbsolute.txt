@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\02ExerciseMyDog\bin\Debug\02ExerciseMyDog.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\02ExerciseMyDog\bin\Debug\02ExerciseMyDog.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\02ExerciseMyDog\bin\Debug\02ExerciseMyDog.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\02ExerciseMyDog\obj\Debug\02ExerciseMyDog.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\02ExerciseMyDog\obj\Debug\02ExerciseMyDog.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\02ExerciseMyDog\obj\Debug\02ExerciseMyDog.pdb

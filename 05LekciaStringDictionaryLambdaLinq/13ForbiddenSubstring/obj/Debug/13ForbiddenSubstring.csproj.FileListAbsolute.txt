@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\13ForbiddenSubstring\bin\Debug\13ForbiddenSubstring.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\13ForbiddenSubstring\bin\Debug\13ForbiddenSubstring.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\13ForbiddenSubstring\bin\Debug\13ForbiddenSubstring.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\13ForbiddenSubstring\obj\Debug\13ForbiddenSubstring.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\13ForbiddenSubstring\obj\Debug\13ForbiddenSubstring.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\13ForbiddenSubstring\obj\Debug\13ForbiddenSubstring.csprojResolveAssemblyReference.cache

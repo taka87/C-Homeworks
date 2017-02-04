@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingCOPY\bin\Debug\09LargestIncreasingCOPY.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingCOPY\bin\Debug\09LargestIncreasingCOPY.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingCOPY\bin\Debug\09LargestIncreasingCOPY.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingCOPY\obj\Debug\09LargestIncreasingCOPY.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingCOPY\obj\Debug\09LargestIncreasingCOPY.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingCOPY\obj\Debug\09LargestIncreasingCOPY.pdb

@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\10ReformatCSharpCode\bin\Debug\10ReformatCSharpCode.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\10ReformatCSharpCode\bin\Debug\10ReformatCSharpCode.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\10ReformatCSharpCode\bin\Debug\10ReformatCSharpCode.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\10ReformatCSharpCode\obj\Debug\10ReformatCSharpCode.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\10ReformatCSharpCode\obj\Debug\10ReformatCSharpCode.pdb

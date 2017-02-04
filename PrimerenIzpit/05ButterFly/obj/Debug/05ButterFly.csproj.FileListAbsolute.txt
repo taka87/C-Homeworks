@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\05ButterFly\bin\Debug\05ButterFly.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\05ButterFly\bin\Debug\05ButterFly.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\05ButterFly\bin\Debug\05ButterFly.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\05ButterFly\obj\Debug\05ButterFly.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\05ButterFly\obj\Debug\05ButterFly.pdb

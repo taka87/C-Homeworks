@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\04Dog\bin\Debug\04Dog.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\04Dog\obj\Debug\04Dog.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\04Dog\obj\Debug\04Dog.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\04Dog\bin\Debug\04Dog.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\04Dog\bin\Debug\04Dog.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\04Dog\obj\Debug\04DogAge.csprojResolveAssemblyReference.cache

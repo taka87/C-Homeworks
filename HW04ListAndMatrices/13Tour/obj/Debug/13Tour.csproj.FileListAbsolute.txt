@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\13Tour\bin\Debug\13Tour.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\13Tour\bin\Debug\13Tour.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\13Tour\bin\Debug\13Tour.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\13Tour\obj\Debug\13Tour.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\13Tour\obj\Debug\13Tour.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\13Tour\obj\Debug\13Tour.pdb

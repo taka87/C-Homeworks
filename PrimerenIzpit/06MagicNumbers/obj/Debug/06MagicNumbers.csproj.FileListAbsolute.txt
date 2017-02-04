@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\06MagicNumbers\bin\Debug\06MagicNumbers.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\06MagicNumbers\bin\Debug\06MagicNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\06MagicNumbers\bin\Debug\06MagicNumbers.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\06MagicNumbers\obj\Debug\06MagicNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\06MagicNumbers\obj\Debug\06MagicNumbers.pdb

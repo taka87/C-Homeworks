@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\10DictionaryExercise\bin\Debug\10DictionaryExercise.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\10DictionaryExercise\bin\Debug\10DictionaryExercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\10DictionaryExercise\bin\Debug\10DictionaryExercise.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\10DictionaryExercise\obj\Debug\10DictionaryExercise.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\10DictionaryExercise\obj\Debug\10DictionaryExercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\10DictionaryExercise\obj\Debug\10DictionaryExercise.pdb

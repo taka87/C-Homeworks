@@ -1,0 +1,9 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\bin\Debug\01ilyCalorieIntake.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\bin\Debug\01ilyCalorieIntake.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\bin\Debug\01ilyCalorieIntake.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\obj\Debug\01ilyCalorieIntake.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\obj\Debug\01ilyCalorieIntake.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\obj\Debug\01ilyCalorieIntake.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\bin\Debug\01ilyCalorieIntake.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\obj\Debug\01ilyCalorieIntake.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LabCSharpBasicsOct\01ilyCalorieIntake\obj\Debug\01ilyCalorieIntake.pdb

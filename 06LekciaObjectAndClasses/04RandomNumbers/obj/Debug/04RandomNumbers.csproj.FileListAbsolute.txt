@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\04RandomNumbers\bin\Debug\04RandomNumbers.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\04RandomNumbers\bin\Debug\04RandomNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\04RandomNumbers\bin\Debug\04RandomNumbers.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\04RandomNumbers\obj\Debug\04RandomNumbers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\04RandomNumbers\obj\Debug\04RandomNumbers.pdb

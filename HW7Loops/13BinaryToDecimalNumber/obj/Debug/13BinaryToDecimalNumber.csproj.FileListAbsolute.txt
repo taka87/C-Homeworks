@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.pdb

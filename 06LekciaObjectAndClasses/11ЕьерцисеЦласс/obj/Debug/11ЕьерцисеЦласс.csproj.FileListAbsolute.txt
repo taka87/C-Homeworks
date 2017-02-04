@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\11ЕьерцисеЦласс\bin\Debug\11ЕьерцисеЦласс.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\11ЕьерцисеЦласс\bin\Debug\11ЕьерцисеЦласс.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\11ЕьерцисеЦласс\bin\Debug\11ЕьерцисеЦласс.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\11ЕьерцисеЦласс\obj\Debug\11ЕьерцисеЦласс.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\11ЕьерцисеЦласс\obj\Debug\11ЕьерцисеЦласс.exe
+c:\users\pilence\documents\visual studio 2015\Projects\06LekciaObjectAndClasses\11ЕьерцисеЦласс\obj\Debug\11ЕьерцисеЦласс.pdb

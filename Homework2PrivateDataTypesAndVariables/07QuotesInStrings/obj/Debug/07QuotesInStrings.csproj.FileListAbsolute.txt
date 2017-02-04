@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\101Backup\bin\Debug\101Backup.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\101Backup\bin\Debug\101Backup.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\101Backup\bin\Debug\101Backup.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\101Backup\obj\Debug\101Backup.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\101Backup\obj\Debug\101Backup.pdb

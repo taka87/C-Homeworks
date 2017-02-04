@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\07DigitAsWord\obj\Debug\08DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\07DigitAsWord\bin\Debug\07DigitAsWord.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\07DigitAsWord\bin\Debug\07DigitAsWord.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\07DigitAsWord\bin\Debug\07DigitAsWord.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\07DigitAsWord\obj\Debug\07DigitAsWord.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\07DigitAsWord\obj\Debug\07DigitAsWord.pdb

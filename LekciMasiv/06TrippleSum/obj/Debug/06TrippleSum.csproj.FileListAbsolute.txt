@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\06TrippleSum\bin\Debug\06TrippleSum.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\06TrippleSum\bin\Debug\06TrippleSum.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\06TrippleSum\bin\Debug\06TrippleSum.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\06TrippleSum\obj\Debug\06TrippleSum.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\06TrippleSum\obj\Debug\06TrippleSum.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciMasiv\06TrippleSum\obj\Debug\06TrippleSum.pdb

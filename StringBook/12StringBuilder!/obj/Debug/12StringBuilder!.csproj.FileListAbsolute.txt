@@ -1,0 +1,2 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\12StringBuilder!\bin\Debug\12StringBuilder!.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\12StringBuilder!\obj\Debug\12StringBuilder!.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\12LastKNumbersSum\bin\Debug\12LastKNumbersSum.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\12LastKNumbersSum\bin\Debug\12LastKNumbersSum.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\12LastKNumbersSum\bin\Debug\12LastKNumbersSum.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\12LastKNumbersSum\obj\Debug\12LastKNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\12LastKNumbersSum\obj\Debug\12LastKNumbersSum.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\12LastKNumbersSum\obj\Debug\12LastKNumbersSum.pdb

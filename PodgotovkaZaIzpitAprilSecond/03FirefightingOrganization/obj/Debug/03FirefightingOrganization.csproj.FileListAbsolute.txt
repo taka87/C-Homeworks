@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\03FirefightingOrganization\bin\Debug\03FirefightingOrganization.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\03FirefightingOrganization\bin\Debug\03FirefightingOrganization.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\03FirefightingOrganization\bin\Debug\03FirefightingOrganization.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\03FirefightingOrganization\obj\Debug\03FirefightingOrganization.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\03FirefightingOrganization\obj\Debug\03FirefightingOrganization.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\03FirefightingOrganization\obj\Debug\03FirefightingOrganization.pdb

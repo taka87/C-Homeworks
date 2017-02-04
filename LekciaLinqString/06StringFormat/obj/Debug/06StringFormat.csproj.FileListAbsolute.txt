@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\06StringFormat\bin\Debug\06StringFormat.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\06StringFormat\bin\Debug\06StringFormat.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\06StringFormat\bin\Debug\06StringFormat.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\06StringFormat\obj\Debug\06StringFormat.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\06StringFormat\obj\Debug\06StringFormat.pdb

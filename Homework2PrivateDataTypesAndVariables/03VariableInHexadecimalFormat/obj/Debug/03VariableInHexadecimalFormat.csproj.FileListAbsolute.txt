@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb

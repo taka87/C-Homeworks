@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\15OddOccurences\bin\Debug\15OddOccurences.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\15OddOccurences\bin\Debug\15OddOccurences.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\15OddOccurences\bin\Debug\15OddOccurences.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\15OddOccurences\obj\Debug\15OddOccurences.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\15OddOccurences\obj\Debug\15OddOccurences.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\15OddOccurences\obj\Debug\15OddOccurences.pdb

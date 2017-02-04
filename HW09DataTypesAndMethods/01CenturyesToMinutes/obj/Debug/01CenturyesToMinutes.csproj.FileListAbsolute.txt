@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\01CenturyesToMinutes\bin\Debug\01CenturyesToMinutes.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\01CenturyesToMinutes\bin\Debug\01CenturyesToMinutes.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\01CenturyesToMinutes\bin\Debug\01CenturyesToMinutes.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\01CenturyesToMinutes\obj\Debug\01CenturyesToMinutes.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\01CenturyesToMinutes\obj\Debug\01CenturyesToMinutes.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\01CenturyesToMinutes\obj\Debug\01CenturyesToMinutes.pdb

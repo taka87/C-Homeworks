@@ -1,0 +1,5 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\08PlayWithIntDoubleAndString\bin\Debug\08PlayWithIntDoubleAndString.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\08PlayWithIntDoubleAndString\bin\Debug\08PlayWithIntDoubleAndString.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\08PlayWithIntDoubleAndString\bin\Debug\08PlayWithIntDoubleAndString.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\08PlayWithIntDoubleAndString\obj\Debug\08PlayWithIntDoubleAndString.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\08PlayWithIntDoubleAndString\obj\Debug\08PlayWithIntDoubleAndString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixxGenerator\bin\Debug\07MatrixxGenerator.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixxGenerator\bin\Debug\07MatrixxGenerator.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixxGenerator\bin\Debug\07MatrixxGenerator.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixxGenerator\obj\Debug\07MatrixxGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixxGenerator\obj\Debug\07MatrixxGenerator.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW04ListAndMatrices\07MatrixxGenerator\obj\Debug\07MatrixxGenerator.pdb

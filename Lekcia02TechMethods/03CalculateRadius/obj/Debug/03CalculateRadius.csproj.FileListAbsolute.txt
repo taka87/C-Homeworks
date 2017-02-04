@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\03CalculateRadius\bin\Debug\03CalculateRadius.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\03CalculateRadius\bin\Debug\03CalculateRadius.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\03CalculateRadius\bin\Debug\03CalculateRadius.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\03CalculateRadius\obj\Debug\03CalculateRadius.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\03CalculateRadius\obj\Debug\03CalculateRadius.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\03CalculateRadius\obj\Debug\03CalculateRadius.pdb

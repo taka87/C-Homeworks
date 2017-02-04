@@ -1,0 +1,5 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\11NumberAsWords\bin\Debug\11NumberAsWords.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\11NumberAsWords\bin\Debug\11NumberAsWords.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\11NumberAsWords\bin\Debug\11NumberAsWords.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\11NumberAsWords\obj\Debug\11NumberAsWords.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW6ConditionalStatements\11NumberAsWords\obj\Debug\11NumberAsWords.pdb

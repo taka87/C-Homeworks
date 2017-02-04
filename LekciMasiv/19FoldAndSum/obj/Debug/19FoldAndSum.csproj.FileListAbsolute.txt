@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\19FoldAndSum\bin\Debug\19FoldAndSum.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\19FoldAndSum\bin\Debug\19FoldAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\19FoldAndSum\bin\Debug\19FoldAndSum.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\19FoldAndSum\obj\Debug\19FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\19FoldAndSum\obj\Debug\19FoldAndSum.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciMasiv\19FoldAndSum\obj\Debug\19FoldAndSum.pdb

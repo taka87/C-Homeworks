@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\03CalculateRadius\bin\Debug\03CalculateRadius.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\03CalculateRadius\bin\Debug\03CalculateRadius.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\03CalculateRadius\bin\Debug\03CalculateRadius.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\03CalculateRadius\obj\Debug\03CalculateRadius.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\03CalculateRadius\obj\Debug\03CalculateRadius.pdb

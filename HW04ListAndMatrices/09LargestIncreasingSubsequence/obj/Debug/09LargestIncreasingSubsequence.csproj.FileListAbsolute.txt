@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW04ListAndMatrices\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.pdb

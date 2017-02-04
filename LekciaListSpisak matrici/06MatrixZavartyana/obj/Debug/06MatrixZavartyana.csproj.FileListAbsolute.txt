@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixZavartyana\bin\Debug\06MatrixZavartyana.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixZavartyana\bin\Debug\06MatrixZavartyana.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixZavartyana\bin\Debug\06MatrixZavartyana.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixZavartyana\obj\Debug\06MatrixZavartyana.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixZavartyana\obj\Debug\06MatrixZavartyana.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\06MatrixZavartyana\obj\Debug\06MatrixZavartyana.pdb

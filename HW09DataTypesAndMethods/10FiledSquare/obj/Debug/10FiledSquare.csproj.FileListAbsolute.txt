@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\10FiledSquare\bin\Debug\10FiledSquare.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\10FiledSquare\bin\Debug\10FiledSquare.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\10FiledSquare\bin\Debug\10FiledSquare.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\10FiledSquare\obj\Debug\10FiledSquare.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\10FiledSquare\obj\Debug\10FiledSquare.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\10FiledSquare\obj\Debug\10FiledSquare.pdb

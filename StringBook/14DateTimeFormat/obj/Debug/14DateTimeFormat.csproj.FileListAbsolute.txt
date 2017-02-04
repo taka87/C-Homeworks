@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\14DateTimeFormat\bin\Debug\14DateTimeFormat.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\14DateTimeFormat\bin\Debug\14DateTimeFormat.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\14DateTimeFormat\bin\Debug\14DateTimeFormat.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\14DateTimeFormat\obj\Debug\14DateTimeFormat.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\14DateTimeFormat\obj\Debug\14DateTimeFormat.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\14DateTimeFormat\obj\Debug\14DateTimeFormat.csprojResolveAssemblyReference.cache

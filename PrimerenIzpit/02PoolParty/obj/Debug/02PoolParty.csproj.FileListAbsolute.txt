@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\02PoolParty\bin\Debug\02PoolParty.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\02PoolParty\bin\Debug\02PoolParty.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\02PoolParty\bin\Debug\02PoolParty.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\02PoolParty\obj\Debug\02PoolParty.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\02PoolParty\obj\Debug\02PoolParty.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\02PoolParty\obj\Debug\02PoolParty.pdb

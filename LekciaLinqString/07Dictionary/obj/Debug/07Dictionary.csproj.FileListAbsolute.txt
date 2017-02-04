@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\07Dictionary\bin\Debug\07Dictionary.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\07Dictionary\bin\Debug\07Dictionary.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\07Dictionary\bin\Debug\07Dictionary.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\07Dictionary\obj\Debug\07Dictionary.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\07Dictionary\obj\Debug\07Dictionary.exe
+c:\users\pilence\documents\visual studio 2015\Projects\LekciaLinqString\07Dictionary\obj\Debug\07Dictionary.pdb

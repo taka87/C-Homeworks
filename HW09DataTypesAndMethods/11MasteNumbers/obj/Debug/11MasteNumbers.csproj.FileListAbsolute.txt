@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\11MasteNumbers\bin\Debug\11MasteNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\11MasteNumbers\bin\Debug\11MasteNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\11MasteNumbers\bin\Debug\11MasteNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\11MasteNumbers\obj\Debug\11MasteNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\11MasteNumbers\obj\Debug\11MasteNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\11MasteNumbers\obj\Debug\11MasteNumbers.pdb

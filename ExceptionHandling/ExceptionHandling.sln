@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Exception1", "01Exception1\01Exception1.csproj", "{67E30DB9-FDF5-49AD-AFF6-61A6D52839ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02MakeException", "02МакеЕьцептион\02MakeException.csproj", "{22086690-5A4D-400C-9996-9FEFA6D0F521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ExceptionFinally", "03ExceptionPart\03ExceptionFinally.csproj", "{89F3C5F0-0D6F-422F-A447-42578CA505D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E30DB9-FDF5-49AD-AFF6-61A6D52839ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E30DB9-FDF5-49AD-AFF6-61A6D52839ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E30DB9-FDF5-49AD-AFF6-61A6D52839ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E30DB9-FDF5-49AD-AFF6-61A6D52839ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22086690-5A4D-400C-9996-9FEFA6D0F521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22086690-5A4D-400C-9996-9FEFA6D0F521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22086690-5A4D-400C-9996-9FEFA6D0F521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22086690-5A4D-400C-9996-9FEFA6D0F521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F3C5F0-0D6F-422F-A447-42578CA505D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F3C5F0-0D6F-422F-A447-42578CA505D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F3C5F0-0D6F-422F-A447-42578CA505D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F3C5F0-0D6F-422F-A447-42578CA505D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

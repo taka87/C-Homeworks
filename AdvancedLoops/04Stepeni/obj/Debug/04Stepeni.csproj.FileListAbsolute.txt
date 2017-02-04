@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\04Stepeni\bin\Debug\04Stepeni.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\04Stepeni\bin\Debug\04Stepeni.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\04Stepeni\bin\Debug\04Stepeni.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\04Stepeni\obj\Debug\04Stepeni.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\04Stepeni\obj\Debug\04Stepeni.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\04Stepeni\obj\Debug\04Stepeni.csprojResolveAssemblyReference.cache

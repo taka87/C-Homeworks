@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\07PrintMyName\bin\Debug\07PrintMyName.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\07PrintMyName\bin\Debug\07PrintMyName.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\07PrintMyName\bin\Debug\07PrintMyName.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\07PrintMyName\obj\Debug\07PrintMyName.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\07PrintMyName\obj\Debug\07PrintMyName.pdb

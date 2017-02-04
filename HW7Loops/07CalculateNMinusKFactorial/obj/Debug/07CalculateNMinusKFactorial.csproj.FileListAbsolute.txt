@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\07CalculateNMinusKFactorial\bin\Debug\07CalculateNMinusKFactorial.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\07CalculateNMinusKFactorial\bin\Debug\07CalculateNMinusKFactorial.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\07CalculateNMinusKFactorial\bin\Debug\07CalculateNMinusKFactorial.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\07CalculateNMinusKFactorial\obj\Debug\07CalculateNMinusKFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\07CalculateNMinusKFactorial\obj\Debug\07CalculateNMinusKFactorial.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\07CalculateNMinusKFactorial\obj\Debug\07CalculateNMinusKFactorial.pdb

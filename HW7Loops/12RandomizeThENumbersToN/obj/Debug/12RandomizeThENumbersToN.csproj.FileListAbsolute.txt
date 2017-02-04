@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\12RandomizeThENumbersToN\bin\Debug\12RandomizeThENumbersToN.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\12RandomizeThENumbersToN\bin\Debug\12RandomizeThENumbersToN.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\12RandomizeThENumbersToN\bin\Debug\12RandomizeThENumbersToN.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\12RandomizeThENumbersToN\obj\Debug\12RandomizeThENumbersToN.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\12RandomizeThENumbersToN\obj\Debug\12RandomizeThENumbersToN.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\12RandomizeThENumbersToN\obj\Debug\12RandomizeThENumbersToN.pdb

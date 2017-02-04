@@ -1,0 +1,5 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\04Elevator\bin\Debug\04Elevator.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\04Elevator\bin\Debug\04Elevator.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\04Elevator\bin\Debug\04Elevator.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\04Elevator\obj\Debug\04Elevator.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW09DataTypesAndMethods\04Elevator\obj\Debug\04Elevator.pdb

@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\11StringConcatenation\bin\Debug\11StringConcatenation.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\11StringConcatenation\bin\Debug\11StringConcatenation.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\11StringConcatenation\bin\Debug\11StringConcatenation.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\11StringConcatenation\obj\Debug\11StringConcatenation.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\StringBook\11StringConcatenation\obj\Debug\11StringConcatenation.pdb

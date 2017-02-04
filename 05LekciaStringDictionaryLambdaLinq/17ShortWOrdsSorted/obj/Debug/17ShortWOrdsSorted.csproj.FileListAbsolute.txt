@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\17ShortWOrdsSorted\bin\Debug\17ShortWOrdsSorted.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\17ShortWOrdsSorted\bin\Debug\17ShortWOrdsSorted.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\17ShortWOrdsSorted\bin\Debug\17ShortWOrdsSorted.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\17ShortWOrdsSorted\obj\Debug\17ShortWOrdsSorted.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\17ShortWOrdsSorted\obj\Debug\17ShortWOrdsSorted.pdb

@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\06PrintNumbers\bin\Debug\06PrintNumbers.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\06PrintNumbers\bin\Debug\06PrintNumbers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\06PrintNumbers\bin\Debug\06PrintNumbers.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\06PrintNumbers\obj\Debug\06PrintNumbers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\06PrintNumbers\obj\Debug\06PrintNumbers.pdb

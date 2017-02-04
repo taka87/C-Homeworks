@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\09HourAndMinutesSomeExercise\bin\Debug\09HourAndMinutesSomeExercise.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\09HourAndMinutesSomeExercise\bin\Debug\09HourAndMinutesSomeExercise.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\09HourAndMinutesSomeExercise\bin\Debug\09HourAndMinutesSomeExercise.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\09HourAndMinutesSomeExercise\obj\Debug\09HourAndMinutesSomeExercise.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\09HourAndMinutesSomeExercise\obj\Debug\09HourAndMinutesSomeExercise.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\PodgotovkaZaIzpitAprilSecond\09HourAndMinutesSomeExercise\obj\Debug\09HourAndMinutesSomeExercise.pdb

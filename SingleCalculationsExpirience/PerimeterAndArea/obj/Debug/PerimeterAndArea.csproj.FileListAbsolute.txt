@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\PerimeterAndArea\bin\Debug\PerimeterAndArea.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\PerimeterAndArea\bin\Debug\PerimeterAndArea.exe
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\PerimeterAndArea\bin\Debug\PerimeterAndArea.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\PerimeterAndArea\obj\Debug\PerimeterAndArea.exe
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\PerimeterAndArea\obj\Debug\PerimeterAndArea.pdb

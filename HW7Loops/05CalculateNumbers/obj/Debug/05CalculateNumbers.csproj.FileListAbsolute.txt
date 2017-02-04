@@ -1,0 +1,9 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\05CalculateNumbers\bin\Debug\05CalculateNumbers.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\05CalculateNumbers\bin\Debug\05CalculateNumbers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\05CalculateNumbers\bin\Debug\05CalculateNumbers.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\05CalculateNumbers\obj\Debug\05CalculateNumbers.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\05CalculateNumbers\obj\Debug\05CalculateNumbers.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\05CalculateNumbers\obj\Debug\05CalculateNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\05CalculateNumbers\bin\Debug\05CalculateNumbers.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\05CalculateNumbers\obj\Debug\05CalculateNumbers.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\05CalculateNumbers\obj\Debug\05CalculateNumbers.pdb

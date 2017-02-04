@@ -1,0 +1,9 @@
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\bin\Debug\01.BGNtoEurConverter.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\bin\Debug\01.BGNtoEurConverter.exe
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\bin\Debug\01.BGNtoEurConverter.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\obj\Debug\01.BGNtoEurConverter.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\obj\Debug\_01.BGNtoEurConverter.FormConverter.resources
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\obj\Debug\_01.BGNtoEurConverter.Properties.Resources.resources
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\obj\Debug\01.BGNtoEurConverter.csproj.GenerateResource.Cache
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\obj\Debug\01.BGNtoEurConverter.exe
+c:\users\pilence\documents\visual studio 2015\Projects\SingleCalculationsExpirience\01.BGNtoEurConverter\obj\Debug\01.BGNtoEurConverter.pdb

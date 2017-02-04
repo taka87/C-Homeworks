@@ -1,0 +1,8 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\Homework2PrivateDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb

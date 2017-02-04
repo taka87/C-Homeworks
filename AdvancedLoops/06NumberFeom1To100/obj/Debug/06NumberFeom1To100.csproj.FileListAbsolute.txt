@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\06NumberFeom1To100\bin\Debug\06NumberFeom1To100.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\06NumberFeom1To100\bin\Debug\06NumberFeom1To100.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\06NumberFeom1To100\bin\Debug\06NumberFeom1To100.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\06NumberFeom1To100\obj\Debug\06NumberFeom1To100.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\06NumberFeom1To100\obj\Debug\06NumberFeom1To100.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\AdvancedLoops\06NumberFeom1To100\obj\Debug\06NumberFeom1To100.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW7Loops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.pdb

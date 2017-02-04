@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\11BankAccountData\bin\Release\11BankAccountData.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\11BankAccountData\bin\Release\11BankAccountData.pdb
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\11BankAccountData\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\11BankAccountData\obj\x86\Release\11BankAccountData.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\11BankAccountData\obj\x86\Release\11BankAccountData.pdb

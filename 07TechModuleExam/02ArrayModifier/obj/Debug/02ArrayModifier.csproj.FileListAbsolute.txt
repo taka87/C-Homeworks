@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\02ArrayModifier\bin\Debug\02ArrayModifier.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\02ArrayModifier\bin\Debug\02ArrayModifier.exe
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\02ArrayModifier\bin\Debug\02ArrayModifier.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\02ArrayModifier\obj\Debug\02ArrayModifier.exe
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\02ArrayModifier\obj\Debug\02ArrayModifier.pdb

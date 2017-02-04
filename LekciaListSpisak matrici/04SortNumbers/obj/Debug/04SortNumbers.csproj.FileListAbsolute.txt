@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04SortNumbers\bin\Debug\04SortNumbers.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04SortNumbers\bin\Debug\04SortNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04SortNumbers\bin\Debug\04SortNumbers.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04SortNumbers\obj\Debug\04SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04SortNumbers\obj\Debug\04SortNumbers.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\04SortNumbers\obj\Debug\04SortNumbers.pdb

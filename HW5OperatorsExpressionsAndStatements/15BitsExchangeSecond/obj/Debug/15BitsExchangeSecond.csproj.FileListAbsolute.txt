@@ -1,0 +1,6 @@
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\15BitsExchangeSecond\bin\Debug\15BitsExchangeSecond.exe.config
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\15BitsExchangeSecond\bin\Debug\15BitsExchangeSecond.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\15BitsExchangeSecond\bin\Debug\15BitsExchangeSecond.pdb
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\15BitsExchangeSecond\obj\Debug\15BitsExchangeSecond.csprojResolveAssemblyReference.cache
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\15BitsExchangeSecond\obj\Debug\15BitsExchangeSecond.exe
+C:\Users\Tezcan\documents\visual studio 2015\Projects\HW5OperatorsExpressionsAndStatements\15BitsExchangeSecond\obj\Debug\15BitsExchangeSecond.pdb

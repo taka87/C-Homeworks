@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\03Holiday\bin\Debug\03Holiday.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\03Holiday\bin\Debug\03Holiday.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\03Holiday\bin\Debug\03Holiday.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\03Holiday\obj\Debug\03Holiday.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\03Holiday\obj\Debug\03Holiday.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\03Holiday\obj\Debug\03Holiday.pdb

@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\03NumberSqare\bin\Debug\03NumberSqare.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\03NumberSqare\bin\Debug\03NumberSqare.exe
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\03NumberSqare\bin\Debug\03NumberSqare.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\03NumberSqare\obj\Debug\03NumberSqare.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\03NumberSqare\obj\Debug\03NumberSqare.exe
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\03NumberSqare\obj\Debug\03NumberSqare.pdb

@@ -1,0 +1,5 @@
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\08IsoscelesTriangle\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\08IsoscelesTriangle\bin\Release\08IsoscelesTriangle.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\08IsoscelesTriangle\bin\Release\08IsoscelesTriangle.pdb
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\08IsoscelesTriangle\obj\x86\Release\08IsoscelesTriangle.exe
+E:\Documents and Settings\RG\My Documents\Visual Studio 2010\Projects\HW3PrimitiveDatTypesAndVariables\08IsoscelesTriangle\obj\x86\Release\08IsoscelesTriangle.pdb

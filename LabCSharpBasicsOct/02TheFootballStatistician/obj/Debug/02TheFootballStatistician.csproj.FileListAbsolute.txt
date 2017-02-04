@@ -1,0 +1,9 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\bin\Debug\02TheFootballStatistician.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\bin\Debug\02TheFootballStatistician.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\bin\Debug\02TheFootballStatistician.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\obj\Debug\02TheFootballStatistician.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\obj\Debug\02TheFootballStatistician.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\obj\Debug\02TheFootballStatistician.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\bin\Debug\02TheFootballStatistician.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\obj\Debug\02TheFootballStatistician.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LabCSharpBasicsOct\02TheFootballStatistician\obj\Debug\02TheFootballStatistician.pdb

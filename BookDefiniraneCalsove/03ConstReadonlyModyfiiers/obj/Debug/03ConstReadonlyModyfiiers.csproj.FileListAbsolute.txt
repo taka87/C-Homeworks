@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\03ConstReadonlyModyfiiers\bin\Debug\03ConstReadonlyModyfiiers.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\03ConstReadonlyModyfiiers\obj\Debug\03ConstReadonlyModyfiiers.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\03ConstReadonlyModyfiiers\bin\Debug\03ConstReadonlyModyfiiers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\03ConstReadonlyModyfiiers\bin\Debug\03ConstReadonlyModyfiiers.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\03ConstReadonlyModyfiiers\obj\Debug\03ConstReadonlyModyfiiers.exe
+c:\users\pilence\documents\visual studio 2015\Projects\BookDefiniraneCalsove\03ConstReadonlyModyfiiers\obj\Debug\03ConstReadonlyModyfiiers.pdb

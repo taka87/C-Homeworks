@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW08AdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.csprojResolveAssemblyReference.cache

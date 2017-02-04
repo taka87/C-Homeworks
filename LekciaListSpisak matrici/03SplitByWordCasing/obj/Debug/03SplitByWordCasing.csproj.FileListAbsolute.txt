@@ -1,0 +1,6 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\03SplitByWordCasing\bin\Debug\03SplitByWordCasing.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\03SplitByWordCasing\bin\Debug\03SplitByWordCasing.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\03SplitByWordCasing\bin\Debug\03SplitByWordCasing.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\03SplitByWordCasing\obj\Debug\03SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\03SplitByWordCasing\obj\Debug\03SplitByWordCasing.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\LekciaListSpisak matrici\03SplitByWordCasing\obj\Debug\03SplitByWordCasing.pdb

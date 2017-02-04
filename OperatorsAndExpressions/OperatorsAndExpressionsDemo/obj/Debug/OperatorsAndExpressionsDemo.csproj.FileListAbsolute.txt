@@ -1,0 +1,6 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsAndExpressionsDemo\bin\Debug\OperatorsAndExpressionsDemo.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsAndExpressionsDemo\bin\Debug\OperatorsAndExpressionsDemo.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsAndExpressionsDemo\bin\Debug\OperatorsAndExpressionsDemo.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsAndExpressionsDemo\obj\Debug\OperatorsAndExpressionsDemo.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsAndExpressionsDemo\obj\Debug\OperatorsAndExpressionsDemo.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsAndExpressionsDemo\obj\Debug\OperatorsAndExpressionsDemo.pdb

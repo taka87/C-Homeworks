@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\08StringReplace\bin\Debug\08StringReplace.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\08StringReplace\bin\Debug\08StringReplace.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\08StringReplace\bin\Debug\08StringReplace.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\08StringReplace\obj\Debug\08StringReplace.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\08StringReplace\obj\Debug\08StringReplace.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\08StringReplace\obj\Debug\08StringReplace.pdb

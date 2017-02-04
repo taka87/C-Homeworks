@@ -1,0 +1,5 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\07TriplesOfLetters\bin\Debug\07TriplesOfLetters.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\07TriplesOfLetters\bin\Debug\07TriplesOfLetters.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\07TriplesOfLetters\bin\Debug\07TriplesOfLetters.pdb
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\07TriplesOfLetters\obj\Debug\07TriplesOfLetters.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\HW09DataTypesAndMethods\07TriplesOfLetters\obj\Debug\07TriplesOfLetters.pdb

@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\05FindSame\bin\Debug\05FindSame.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\05FindSame\bin\Debug\05FindSame.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\05FindSame\bin\Debug\05FindSame.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\05FindSame\obj\Debug\05FindSame.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\05FindSame\obj\Debug\05FindSame.pdb

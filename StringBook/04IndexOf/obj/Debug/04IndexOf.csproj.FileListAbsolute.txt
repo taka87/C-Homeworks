@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\04IndexOf\bin\Debug\04IndexOf.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\04IndexOf\bin\Debug\04IndexOf.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\04IndexOf\bin\Debug\04IndexOf.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\04IndexOf\obj\Debug\04IndexOf.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\04IndexOf\obj\Debug\04IndexOf.pdb

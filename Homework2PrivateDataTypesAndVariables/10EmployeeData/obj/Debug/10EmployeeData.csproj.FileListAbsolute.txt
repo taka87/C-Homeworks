@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework2PrivateDataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.pdb

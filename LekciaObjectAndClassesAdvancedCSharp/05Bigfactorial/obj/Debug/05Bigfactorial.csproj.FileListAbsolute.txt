@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\05Bigfactorial\bin\Debug\05Bigfactorial.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\05Bigfactorial\bin\Debug\05Bigfactorial.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\05Bigfactorial\bin\Debug\05Bigfactorial.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\05Bigfactorial\obj\Debug\05Bigfactorial.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\05Bigfactorial\obj\Debug\05Bigfactorial.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciaObjectAndClassesAdvancedCSharp\05Bigfactorial\obj\Debug\05Bigfactorial.csprojResolveAssemblyReference.cache

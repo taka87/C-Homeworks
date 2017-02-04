@@ -1,0 +1,3 @@
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\08Exercise\bin\Debug\08Exercise.exe.config
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\08Exercise\obj\Debug\08Exercise.exe
+C:\Users\Pilence\documents\visual studio 2015\Projects\05LekciaStringDictionaryLambdaLinq\08Exercise\obj\Debug\08Exercise.pdb

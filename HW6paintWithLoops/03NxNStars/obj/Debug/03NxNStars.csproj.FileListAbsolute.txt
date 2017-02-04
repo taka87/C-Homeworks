@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\03NxNStars\bin\Debug\03NxNStars.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\03NxNStars\bin\Debug\03NxNStars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\03NxNStars\bin\Debug\03NxNStars.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\03NxNStars\obj\Debug\03NxNStars.exe
+c:\users\pilence\documents\visual studio 2015\Projects\HW6paintWithLoops\03NxNStars\obj\Debug\03NxNStars.pdb

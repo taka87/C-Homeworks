@@ -1,0 +1,6 @@
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\14SumArrays\bin\Debug\14SumArrays.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\14SumArrays\bin\Debug\14SumArrays.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\14SumArrays\bin\Debug\14SumArrays.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\14SumArrays\obj\Debug\14SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\14SumArrays\obj\Debug\14SumArrays.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\LekciMasiv\14SumArrays\obj\Debug\14SumArrays.pdb

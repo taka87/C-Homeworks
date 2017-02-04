@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\01ZelechukovaBorsa\bin\Debug\01ZelechukovaBorsa.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\01ZelechukovaBorsa\bin\Debug\01ZelechukovaBorsa.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\01ZelechukovaBorsa\bin\Debug\01ZelechukovaBorsa.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\01ZelechukovaBorsa\obj\Debug\01ZelechukovaBorsa.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\01ZelechukovaBorsa\obj\Debug\01ZelechukovaBorsa.exe
+c:\users\pilence\documents\visual studio 2015\Projects\PrimerenIzpit\01ZelechukovaBorsa\obj\Debug\01ZelechukovaBorsa.pdb

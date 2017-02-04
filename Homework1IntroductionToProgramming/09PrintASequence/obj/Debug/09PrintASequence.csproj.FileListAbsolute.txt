@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.pdb

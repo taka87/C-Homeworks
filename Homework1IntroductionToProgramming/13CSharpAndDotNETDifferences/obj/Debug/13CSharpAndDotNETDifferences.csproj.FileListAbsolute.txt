@@ -1,0 +1,1 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\13CSharpAndDotNETDifferences\bin\Debug\13CSharpAndDotNETDifferences.exe.config

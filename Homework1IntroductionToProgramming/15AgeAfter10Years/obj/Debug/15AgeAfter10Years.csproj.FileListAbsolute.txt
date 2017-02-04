@@ -1,0 +1,5 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\Homework1IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.pdb

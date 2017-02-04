@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\01NumbersFromOneToThree\bin\Debug\01NumbersFromOneToThree.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\01NumbersFromOneToThree\bin\Debug\01NumbersFromOneToThree.exe
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\01NumbersFromOneToThree\bin\Debug\01NumbersFromOneToThree.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\01NumbersFromOneToThree\obj\Debug\01NumbersFromOneToThree.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\01NumbersFromOneToThree\obj\Debug\01NumbersFromOneToThree.exe
+c:\users\pilence\documents\visual studio 2015\Projects\AdvancedLoops\01NumbersFromOneToThree\obj\Debug\01NumbersFromOneToThree.pdb

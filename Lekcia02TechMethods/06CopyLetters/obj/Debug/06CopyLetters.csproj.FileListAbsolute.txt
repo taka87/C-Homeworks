@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\06CopyLetters\bin\Debug\06CopyLetters.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\06CopyLetters\bin\Debug\06CopyLetters.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\06CopyLetters\bin\Debug\06CopyLetters.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\06CopyLetters\obj\Debug\06CopyLetters.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\06CopyLetters\obj\Debug\06CopyLetters.pdb

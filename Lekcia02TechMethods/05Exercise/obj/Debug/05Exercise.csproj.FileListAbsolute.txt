@@ -1,0 +1,5 @@
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\05Exercise\bin\Debug\05Exercise.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\05Exercise\bin\Debug\05Exercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\05Exercise\bin\Debug\05Exercise.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\05Exercise\obj\Debug\05Exercise.exe
+c:\users\pilence\documents\visual studio 2015\Projects\Lekcia02TechMethods\05Exercise\obj\Debug\05Exercise.pdb

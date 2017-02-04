@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\03TargetMultiplier\bin\Debug\03TargetMultiplier.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\03TargetMultiplier\bin\Debug\03TargetMultiplier.exe
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\03TargetMultiplier\bin\Debug\03TargetMultiplier.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\03TargetMultiplier\obj\Debug\03TargetMultiplier.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\03TargetMultiplier\obj\Debug\03TargetMultiplier.exe
+c:\users\pilence\documents\visual studio 2015\Projects\07TechModuleExam\03TargetMultiplier\obj\Debug\03TargetMultiplier.pdb

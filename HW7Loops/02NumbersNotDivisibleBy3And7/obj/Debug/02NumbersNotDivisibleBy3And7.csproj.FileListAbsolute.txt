@@ -1,0 +1,9 @@
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.pdb
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+c:\users\tezcan\documents\visual studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+C:\Users\Pilence\Documents\Visual Studio 2015\Projects\HW7Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb

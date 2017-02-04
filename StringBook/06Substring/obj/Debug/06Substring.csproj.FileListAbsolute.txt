@@ -1,0 +1,6 @@
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\06Substring\bin\Debug\06Substring.exe.config
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\06Substring\bin\Debug\06Substring.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\06Substring\bin\Debug\06Substring.pdb
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\06Substring\obj\Debug\06Substring.csprojResolveAssemblyReference.cache
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\06Substring\obj\Debug\06Substring.exe
+c:\users\pilence\documents\visual studio 2015\Projects\StringBook\06Substring\obj\Debug\06Substring.pdb
